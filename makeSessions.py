@@ -5,7 +5,7 @@ from datetime import timedelta
 from dateutil.parser import parse
 
 # leggi il dataframe dal file o da una fonte dati
-df = pd.read_csv("processed_data.csv", header=0) # nrows=1000
+df = pd.read_csv("processed_data_new.csv", header=0) # nrows=1000
 
 # converte la colonna "@timestamp" in un oggetto datetime
 df["@timestamp"] = pd.to_datetime(df["@timestamp"])
@@ -40,20 +40,29 @@ session_hashmap = {}#{session:[id,timestamp,total_requests]}
 
 current_session_id = 0
 for index, row in df.iterrows():
-    hashmap_key = str(row["real_client_ip"]) + str(row["user-agent"]) + str(row["service-id"]) # hashmap_key = ip+user_agent+service_id
-    if (hashmap_key in session_hashmap): 
-        treshold = "30 minutes" if session_hashmap[hashmap_key][2] < 100 else "60 minutes"
-        #if treshold == "60 minutes":print(treshold)
+    hashmap_key = str(row["real_client_ip"]) + str(row["service-id"]) # hashmap_key = ip+service_id
+    #hashmap_key = str(row["real_client_ip"]) + str(row["user-agent"]) + str(row["service-id"]) # hashmap_key = ip+user_agent+service_id
     if (hashmap_key in session_hashmap) and ((row["@timestamp"] - session_hashmap[hashmap_key][1]) <= pd.Timedelta("30 minutes" if session_hashmap[hashmap_key][2] < 100 else "60 minutes")):
         session_id =  session_hashmap[hashmap_key][0] #session_id
         df.at[index, "session_id"] = session_id
         number_of_requests = session_hashmap[hashmap_key][2] + 1 #number of request per session
-        session_hashmap[hashmap_key] = [current_session_id,row["@timestamp"],number_of_requests]
+        session_hashmap[hashmap_key] = [session_id,row["@timestamp"],number_of_requests]
     else:
         current_session_id += 1
-        session_hashmap[str(row["real_client_ip"]) + str(row["user-agent"]) + str(row["service-id"])] = [current_session_id,row["@timestamp"],0]
+        session_hashmap[str(row["real_client_ip"]) + str(row["service-id"])] = [current_session_id,row["@timestamp"],0]
         df.at[index, "session_id"] = current_session_id
 
+'''
+current_session_id = 0
+for index, row in df.iterrows():
+    if (str(row["real_client_ip"]) + str(row["user-agent"]) + str(row["service-id"]) in session_hashmap):
+        session_id =  session_hashmap[str(row["real_client_ip"]) + str(row["user-agent"]) + str(row["service-id"])]
+        df.at[index, "session_id"] = session_hashmap[str(row["real_client_ip"]) + str(row["user-agent"]) + str(row["service-id"])]
+    else:
+        current_session_id += 1
+        session_hashmap[str(row["real_client_ip"]) + str(row["user-agent"]) + str(row["service-id"])] = current_session_id
+        df.at[index, "session_id"] = current_session_id
+'''
 #total time in seconds for each session
 def total_time(x):
     result = x.max() - x.min()
@@ -196,6 +205,7 @@ def night(x):
 
 # raggruppa il dataframe per "session_id" e aggrega le colonne di interesse
 grouped_df = df.groupby("session_id").agg({
+    #"session_id" : "first", # da rimuovere
     "user-agent" : "first",
     "noRequests": "sum",
     "volume" : "sum",
@@ -224,3 +234,5 @@ grouped_df = grouped_df.rename(columns={
 
 # salva il dataframe aggregato in un nuovo file o in una fonte dati
 grouped_df.to_csv("sessions_new.csv", index=False)
+
+print("check")

@@ -1,10 +1,12 @@
 import pandas as pd
+import pytz
 from datetime import datetime
 import json
 import re
 
+
 # leggi il dataframe dal file o da una fonte dati
-df = pd.read_csv("mydata_new.csv", header=0) #nrows=1000
+df = pd.read_csv("mydata.csv", header=0) #nrows=1000
 df = df.drop(columns=["customer"])
 
 # converte la colonna "@timestamp" in un oggetto datetime
@@ -21,9 +23,10 @@ df["js"] = 0
 #df["user-agent"] = ""
 
 def user_agent_to_bag_of_words(user_agent):
+    test = user_agent
     # Rimuovi i numeri, i caratteri speciali e sostituisci gli spazi con '/'
-    user_agent = re.sub(r'_|[^\w\s-]|\bref\s+\S+|\breport\s+\S+', ' ', user_agent).replace(' ', '/') #[0-9]+|
-    user_agent = re.sub(r'(?<!\w)\d+', '', user_agent).replace('-', " / ")
+    user_agent = re.sub(r'[0-9]+|_|[^\w\s-]|\bref\s+\S+|\breport\s+\S+', ' ', user_agent).replace(' ', '/') #[0-9]+|
+    user_agent = re.sub(r'(?<!\w)\d+', '', user_agent).replace('-', "/")
     #user_agent = re.sub(r'[\w]+(-[\w]+)+', ' ', user_agent).replace(' ', '/')
     
 
@@ -31,8 +34,11 @@ def user_agent_to_bag_of_words(user_agent):
     words = user_agent.split('/')
 
     # Rimuovi le parole vuote e ripetute
-    words = list(filter(lambda x: x != '' and words.count(x) == 1, words))
-
+    #words = list(filter(lambda x: x != '' and words.count(x) == 1, words))  #original
+    words = list(filter(lambda x: x != '' and words.count(x) == 1 and x != ' ' and len(x)>3, words))
+    temp = (' / '.join(words)).lower()
+    if temp is None:
+        print(test)
     # Restituisci le parole rimanenti
     return (' / '.join(words)).lower()
 
@@ -54,7 +60,7 @@ for index, row in df.iterrows():
     df.at[index, "volume"] = volume
 
     # Referer
-    if ("referer" in request_header):
+    if ("referer" in request_header) and request_header["referer"] != "":
         referer = request_header["referer"]
     else : referer = "-"
     df.at[index, "referer"] = referer
@@ -88,4 +94,4 @@ df = df.rename(columns={
     "geoip.region_iso_code": "night",
 })
 
-df.to_csv("processed_data.csv", index=False)
+df.to_csv("processed_data_new.csv", index=False)
