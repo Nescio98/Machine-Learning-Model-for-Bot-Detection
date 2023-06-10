@@ -35,4 +35,84 @@ Our dataset is composed by **traffic logs** collected by a WAAP (a sort of firew
 * Rules - Rule raised by the WAAP
 * service-id - ID of a customer service, *for example* 54fd94af-c2b7-492a-bd6d-617f36bfd0b2
 
+* **transaction.producer.components** - Components of the transaction producer, *for example* OWASP_CRS/3.4.0-dev
+* **transaction.producer.secrules_engine** - Status of the security rules engine
+  - *for example* Enabled
+* **transaction.request.body** - Request body content
+  - *for example* (empty)
+* **transaction.request.headers_json** - Request headers in JSON format, 
+  - *for example* {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36", "X-Forwarded-Proto": "https", "sec-fetch-site": "same-site", "access-control-request-headers": "authorization,storecode", "accept": "/", "access-control-request-method": "GET", "origin": "blablabla.cloud.customername.it", "sec-fetch-mode": "cors", "X-Amzn-Trace-Id": "Root=1-641dcacd-65d99e7800477fab69c2742e", "Host": "blablablabla.cloud.customername.it", "X-Forwarded-Port": "443", "referer": "blablabla.cloud.customername.it/", "X-Forwarded-For": "44.243.254.234", "sec-fetch-dest": "empty", "accept-encoding": "gzip, deflate, br", "accept-language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7"}
+* **transaction.request.headers_map.content-lenght** - Content length of the request headers map
+  - *for example*: 593
+* **transaction.request.headers_map_content-type** - Content type of the request headers map
+  - *for example*: application/json
+
+* **transaction.request.headers_map.host** - Host in the request headers
+  - *for example*: blablabla.cloud.customer.it
+* **transaction.request.headers_map.origin** - Origin in the request headers
+  - *for example* -
+* **transaction.request.headers_map.referer** - Referer in the request headers map
+  - *for example* -
+* **transaction.request.headers_map.user-agent** - User agent in the request headers
+  -  *for example* Amazon-Route53-Health-Check-Service (ref 293dce71-3b67-498f-bd2c-4564e152a418; report amzn.to/1vsLAci)
+* **transaction.request.headers_map.x-forwarded-for** - X-Forwarded-For in the request headers map
+  - *for example* 44.253.252.234
+* **transaction.request.headers_map.x-forwarded-port** - X-Forwarded-Port in the request headers map
+  - *for example* 443
+* **transaction.request.headers_map.x-forwarded-proto** - X-Forwarded-Proto in the request headers map
+  - *for example* https
+* **transaction.request.http_version** - HTTP version of the request
+  - *for example* 1.1
+* **transaction.request.method** - HTTP method of the request
+  - *for example* GET
+* **transaction.request.uri** - URI of the request
+  - *for example* /v1/craftsmen?storeCode=001
+* **transaction.request.uri_path** - Path of the URI in the request
+  - *for example* /v1/craftsmen
+* **transaction.response.body** - Response body content
+  - *for example* (empty)
+* **transaction.reponse.headers_json** - Response headers in JSON format, 
+  - *for example* {"X-waap-Webapp-Group": "pub", "X-waap-Upstream-Latency": "5", "ETag": "W/\"2-vyGp6PvFi4sFtPoIWeDReyIC8\"", "Connection": "keep-alive", "X-Powered-By": "Express", "Content-Type": "application/json; charset=utf-8", "Content-Length": "2", "Date": "Fri, 24 Mar 2023 16:07:41 GMT", "X-waap-Proxy-Latency": "4", "Server": ""}
+
+
+* **transactin.response.headers_map.content-encoding** - Content encoding in the response headers map, *for example* gzip
+  - transactin.response.headers_map.content-encoding: gzip
+* **transaction.response.headers_map.content-lenght** - Content length in the response headers map, *for example* 96
+  - transaction.response.headers_map.content-lenght: 96
+* **transaction.response.headers_map.content-type** - Content type in the response headers map, *for example* application/json
+  - transaction.response.headers_map.content-type: application/json
+* **transaction.response.headers_map.set-cookie** - Set-Cookie in the response headers map, *for example* -
+  - transaction.response.headers_map.set-cookie: -
+* **transaction.response.headers_map.x-waap-cache** - X-waap-cache in the response headers map, *for example* hit
+  - transaction.response.headers_map.x-waap-cache: hit
+* **transaction.response.headers_map.x-waap-cache-key** - X-waap-cache-key in the response headers map, *for example* 6268d5b311ca5w45c2d5306d1f3f22f4
+  - transaction.response.headers_map.x-waap-cache-key: 6268d5b311ca5w45c2d5306d1f3f22f4
+* **transaction.response.headers_map.x-waap-cache-type** - X-waap-cache-type in the response headers map, *for example* fresh
+  - transaction.response.headers_map.x-waap-cache-type: fresh
+* **transaction.response.headers_map.x-waap-proxy-latency** - X-waap-proxy-latency in the response headers map, *for example* 34
+  - transaction.response.headers_map.x-waap-proxy-latency: 34
+* **transaction.response.headers_map.x-waap-response-latency** - X-waap-response-latency in the response headers map, *for example* 30
+  - transaction.response.headers_map.x-waap-response-latency: 30
+* **transaction.response.headers_map.x-waap-upstream-latency** - X-waap-upstream-latency in the response headers map, *for example* 966
+  - transaction.response.headers_map.x-waap-upstream-latency: 966
+* **transaction.response.headers.map.x-waap-webapp-group** - X-waap-webapp-group in the response headers map, *for example* pub
+  - transaction.response.headers.map.x-waap-webapp-group: pub
+* **transaction.response.http_code** - HTTP status code of the response, *for example* 404
+  - transaction.response.http_code: 404
+* **transaction.time_stamp** - Timestamp of the transaction, *for example* Fri Mar 24 17:07:38 2023
+  - transaction.time_stamp: Fri Mar 24 17:07:38 2023
+* **transaction.useragent.device** - Device information from
+
+ the user agent, *for example* Other
+  - transaction.useragent.device: Other
+* **transaction.useragent.family** - User agent family, *for example* Amazon-Route53-Health-Check-Service
+  - transaction.useragent.family: Amazon-Route53-Health-Check-Service
+* **transaction.useragent.os** - Operating system information from the user agent, *for example* Other
+  - transaction.useragent.os: Other
+* **transaction.useragent.os_version** - Operating system version from the user agent, *for example* -
+  - transaction.useragent.os_version: -
+* **transaction.useragent.ua_string** - User agent string, *for example* Amazon-Route53-Health-Check-Service (ref 293dce71-3b67-498f-bd2c-4564e152a418; report http://amzn.to/1vsLAci)
+  - transaction.useragent.ua_string: Amazon-Route53-Health-Check-Service (ref 293dce71-3b67-498f-bd2c-4564e152a418; report http://amzn.to/1vsLAci)
+
+
 #to do
