@@ -21,21 +21,33 @@ Further developments:
 
 ## The Dataset
 Our dataset is composed by **traffic logs** collected by a WAAP (a sort of firewall), with the following *header* :
-* **Timestamp** - The log's timestamp, *for example* Mar 24, 2023 @ 17:07:41.000
-* **index** - Elastic search index, *for example* .ds-waap-logs-2023.03.23-000344
-* **customer** - The name of the waap's customer, *for example* McDonald
-* **Geoip.city_name** - The name of the client's city (ip), *for example* Rome
-* **Geoip.continent_name** - The name of the client's continent (ip), *for example* Europe
-* **Geoip.country_code2** - The country code of the client (ip), *for example* IT
-* **Geoip.country_name** - The country name of the client (ip), *for example* Italy
-* **Geoip.region_iso_code** - The iso_code of the client(ip), *for example* IT-RM
-* **Geoip.location** - The coordinates of the client (ip), *for example* POINT(12.6843 56.1188)
-* **Nodename** - The elasticsearch's node, *for example* ip-10-0-4-154.eu-central-1.compute.internal
-* **Real_client_ip** - The client's ip, *for example* 134.30.168.24
-* Rules - Rule raised by the WAAP
-* service-id - ID of a customer service, *for example* 54fd94af-c2b7-492a-bd6d-617f36bfd0b2
+* **Timestamp** - The log's timestamp
+  - *for example* Mar 24, 2023 @ 17:07:41.000
+* **index** - Elastic search index
+  - *for example* .ds-waap-logs-2023.03.23-000344
+* **customer** - The name of the waap's customer
+  - *for example* McDonald
+* **Geoip.city_name** - The name of the client's city (ip)
+  - *for example* Rome
+* **Geoip.continent_name** - The name of the client's continent (ip)
+  - *for example* Europe
+* **Geoip.country_code2** - The country code of the client (ip)
+  - *for example* IT
+* **Geoip.country_name** - The country name of the client (ip)
+  - *for example* Italy
+* **Geoip.region_iso_code** - The iso_code of the client(ip)
+  - *for example* IT-RM
+* **Geoip.location** - The coordinates of the client (ip)
+  - *for example* POINT(12.6843 56.1188)
+* **Nodename** - The elasticsearch's node
+  - *for example* ip-10-0-4-154.eu-central-1.compute.internal
+* **Real_client_ip** - The client's ip
+  - *for example* 134.30.168.24
+* **service-id** - ID of a customer service
+  - *for example* 54fd94af-c2b7-492a-bd6d-617f36bfd0b2
 
-* **transaction.producer.components** - Components of the transaction producer, *for example* OWASP_CRS/3.4.0-dev
+* **transaction.producer.components** - Components of the transaction producer
+  - *for example* OWASP_CRS/3.4.0-dev
 * **transaction.producer.secrules_engine** - Status of the security rules engine
   - *for example* Enabled
 * **transaction.request.body** - Request body content
@@ -46,7 +58,6 @@ Our dataset is composed by **traffic logs** collected by a WAAP (a sort of firew
   - *for example*: 593
 * **transaction.request.headers_map_content-type** - Content type of the request headers map
   - *for example*: application/json
-
 * **transaction.request.headers_map.host** - Host in the request headers
   - *for example*: blablabla.cloud.customer.it
 * **transaction.request.headers_map.origin** - Origin in the request headers
@@ -73,46 +84,42 @@ Our dataset is composed by **traffic logs** collected by a WAAP (a sort of firew
   - *for example* (empty)
 * **transaction.reponse.headers_json** - Response headers in JSON format, 
   - *for example* {"X-waap-Webapp-Group": "pub", "X-waap-Upstream-Latency": "5", "ETag": "W/\"2-vyGp6PvFi4sFtPoIWeDReyIC8\"", "Connection": "keep-alive", "X-Powered-By": "Express", "Content-Type": "application/json; charset=utf-8", "Content-Length": "2", "Date": "Fri, 24 Mar 2023 16:07:41 GMT", "X-waap-Proxy-Latency": "4", "Server": ""}
-
-
-* **transactin.response.headers_map.content-encoding** - Content encoding in the response headers map, *for example* gzip
-  - transactin.response.headers_map.content-encoding: gzip
-* **transaction.response.headers_map.content-lenght** - Content length in the response headers map, *for example* 96
-  - transaction.response.headers_map.content-lenght: 96
-* **transaction.response.headers_map.content-type** - Content type in the response headers map, *for example* application/json
-  - transaction.response.headers_map.content-type: application/json
-* **transaction.response.headers_map.set-cookie** - Set-Cookie in the response headers map, *for example* -
-  - transaction.response.headers_map.set-cookie: -
-* **transaction.response.headers_map.x-waap-cache** - X-waap-cache in the response headers map, *for example* hit
-  - transaction.response.headers_map.x-waap-cache: hit
-* **transaction.response.headers_map.x-waap-cache-key** - X-waap-cache-key in the response headers map, *for example* 6268d5b311ca5w45c2d5306d1f3f22f4
-  - transaction.response.headers_map.x-waap-cache-key: 6268d5b311ca5w45c2d5306d1f3f22f4
-* **transaction.response.headers_map.x-waap-cache-type** - X-waap-cache-type in the response headers map, *for example* fresh
-  - transaction.response.headers_map.x-waap-cache-type: fresh
-* **transaction.response.headers_map.x-waap-proxy-latency** - X-waap-proxy-latency in the response headers map, *for example* 34
-  - transaction.response.headers_map.x-waap-proxy-latency: 34
-* **transaction.response.headers_map.x-waap-response-latency** - X-waap-response-latency in the response headers map, *for example* 30
-  - transaction.response.headers_map.x-waap-response-latency: 30
-* **transaction.response.headers_map.x-waap-upstream-latency** - X-waap-upstream-latency in the response headers map, *for example* 966
-  - transaction.response.headers_map.x-waap-upstream-latency: 966
-* **transaction.response.headers.map.x-waap-webapp-group** - X-waap-webapp-group in the response headers map, *for example* pub
-  - transaction.response.headers.map.x-waap-webapp-group: pub
-* **transaction.response.http_code** - HTTP status code of the response, *for example* 404
-  - transaction.response.http_code: 404
-* **transaction.time_stamp** - Timestamp of the transaction, *for example* Fri Mar 24 17:07:38 2023
-  - transaction.time_stamp: Fri Mar 24 17:07:38 2023
-* **transaction.useragent.device** - Device information from
-
- the user agent, *for example* Other
-  - transaction.useragent.device: Other
-* **transaction.useragent.family** - User agent family, *for example* Amazon-Route53-Health-Check-Service
-  - transaction.useragent.family: Amazon-Route53-Health-Check-Service
-* **transaction.useragent.os** - Operating system information from the user agent, *for example* Other
-  - transaction.useragent.os: Other
-* **transaction.useragent.os_version** - Operating system version from the user agent, *for example* -
-  - transaction.useragent.os_version: -
-* **transaction.useragent.ua_string** - User agent string, *for example* Amazon-Route53-Health-Check-Service (ref 293dce71-3b67-498f-bd2c-4564e152a418; report http://amzn.to/1vsLAci)
-  - transaction.useragent.ua_string: Amazon-Route53-Health-Check-Service (ref 293dce71-3b67-498f-bd2c-4564e152a418; report http://amzn.to/1vsLAci)
+* **transactin.response.headers_map.content-encoding** - Content encoding in the response headers map
+  - *for example* gzip
+* **transaction.response.headers_map.content-lenght** - Content length in the response headers map
+  - *for example* 96
+* **transaction.response.headers_map.content-type** - Content type in the response headers map
+  - *for example* application/json
+* **transaction.response.headers_map.set-cookie** - Set-Cookie in the response headers map
+  - *for example* -
+* **transaction.response.headers_map.x-waap-cache** - X-waap-cache in the response headers map
+  - *for example* hit
+* **transaction.response.headers_map.x-waap-cache-key** - X-waap-cache-key in the response headers map
+  - *for example* 6268d5b311ca5w45c2d5306d1f3f22f4
+* **transaction.response.headers_map.x-waap-cache-type** - X-waap-cache-type in the response headers map
+  - *for example* fresh
+* **transaction.response.headers_map.x-waap-proxy-latency** - X-waap-proxy-latency in the response headers map
+  - *for example* 34
+* **transaction.response.headers_map.x-waap-response-latency** - X-waap-response-latency in the response headers map
+  - *for example* 30
+* **transaction.response.headers_map.x-waap-upstream-latency** - X-waap-upstream-latency in the response headers map
+  - *for example* 966
+* **transaction.response.headers.map.x-waap-webapp-group** - X-waap-webapp-group in the response headers map
+  - *for example* pub
+* **transaction.response.http_code** - HTTP status code of the response
+  - *for example* 404
+* **transaction.time_stamp** - Timestamp of the transaction
+  - *for example* Fri Mar 24 17:07:38 2023
+* **transaction.useragent.device** - Device information from the user agent
+  - *for example* Other
+* **transaction.useragent.family** - User agent family
+  - *for example* Amazon-Route53-Health-Check-Service
+* **transaction.useragent.os** - Operating system information from the user agent
+  - *for example* Other
+* **transaction.useragent.os_version** - Operating system version from the user agent
+  - *for example* -
+* **transaction.useragent.ua_string** - User agent string
+  - *for example* Amazon-Route53-Health-Check-Service (ref 293dce71-3b67-498f-bd2c-4564e152a418; report amzn.to/1veLAci)
 
 
 #to do
