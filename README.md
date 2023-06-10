@@ -1,7 +1,7 @@
 # Machine Learning Model for Bot Detection
 
 ## The project
-The project’s goal is to make a machine learning model for bot and applications detection. In other words, we want to make a model that can distinguish programmatic traffic from non-programmatic traffic. Our dataset are traffic logs collected by a WAAP (a sort of firewall). 
+The project’s goal is to make a machine learning model for bot and applications detection. In other words, we want to make a model that can distinguish programmatic traffic from non-programmatic traffic. The dataset is composed by traffic logs collected by a WAAP named Mithril.
 
 ### Roadmap:
 
@@ -20,9 +20,11 @@ The project’s goal is to make a machine learning model for bot and application
 
 
 ## The Dataset
+
+Our dataset is composed by <b>traffic logs</b> collected by a WAAP (a sort of firewall), with the following <b>header</b>:
 <details> 
 
-<summary>  Our dataset is composed by <b>traffic logs</b> collected by a WAAP (a sort of firewall), with the following <b>header</b> : </summary>
+<summary>  Expand details : </summary>
 
 
 * **Timestamp** - The log's timestamp
