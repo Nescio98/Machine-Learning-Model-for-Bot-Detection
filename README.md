@@ -5,22 +5,26 @@ The project’s goal is to make a machine learning model for bot and application
 
 ### Roadmap:
 
-1- Identify sessions from our logs by an algorithm that evaluates things like temporal proximity, ip of the client, user agent, cookie.
+1. Design the concept of **session** and implement an algorithm capable of grouping http requests into these sessions
+2. Identify **meaningful features** to distinguish human from programmatic traffic
+3. **Process the dataset** in order to extract the designed features
+4. Study the extracted features in order to identify any **correlations** 
+5. Choose and implement an **unsupervised machine learning algorithm**
+6. Verify and **optimize** the result 
 
-2- Evaluate the goodness of the algorithm through graphs and data.
 
-3- create a dataset of surely programmatic sessions (e.g., user-agent curl, java, python etc.)
+## Table of Content
 
-4- Train and evaluate the goodness of the model.
+1. [The Dataset](#the-dataset)
+2. [To do]()
 
-Further developments:
-
-1- Identify possible groups of programmatic sessions (e.g., bots that exfiltrate data, by bots that make attempts at XSS attacks, SQL Injection, by bots that make DDOS attacks, by bots like Googlebot)
-
-2- Grouping programmatic sessions and finding the semantics of the groups found
 
 ## The Dataset
-Our dataset is composed by **traffic logs** collected by a WAAP (a sort of firewall), with the following *header* :
+<details> 
+
+<summary>  Our dataset is composed by <b>traffic logs</b> collected by a WAAP (a sort of firewall), with the following <b>header</b> : </summary>
+
+
 * **Timestamp** - The log's timestamp
   - *for example* Mar 24, 2023 @ 17:07:41.000
 * **index** - Elastic search index
@@ -120,6 +124,7 @@ Our dataset is composed by **traffic logs** collected by a WAAP (a sort of firew
   - *for example* -
 * **transaction.useragent.ua_string** - User agent string
   - *for example* Amazon-Route53-Health-Check-Service (ref 293dce71-3b67-498f-bd2c-4564e152a418; report amzn.to/1veLAci)
+</details> 
 
 
 #to do
