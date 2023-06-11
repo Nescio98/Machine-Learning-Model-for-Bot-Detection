@@ -266,7 +266,7 @@ Cluster 0 represents sessions from Facebook mobile applications, we can label th
 
 
 ## Cluster 1:
-Cluster 1 represents sessions from applications such as python, java, and other bots, so we can label this as **programmatic traffic**
+Cluster 1 represents sessions from applications such as python, java, and other bots, so we can label this as **Programmatic Traffic**
 <details> 
 
 <summary>  Expand details : </summary>
@@ -332,5 +332,78 @@ Cluster 1 represents sessions from applications such as python, java, and other 
   - **Media Distanza** : 123.63
 
   - **Conteggio totale** : 1
+  
+## Cluster 2:
+Cluster 2 represents sessions from apple mobile devices and we can label this traffic as **Human Traffic**
+<details> 
+
+<summary>  Expand details : </summary>
+  
+* **User Agent**: mozilla / applewebkit / khtml / gecko / crios / mobile / safari
+  - **Media Distanza**: 13.66
+  - **Conteggio totale**: 42
+
+* **User Agent**: mozilla / applewebkit / khtml / gecko / edgios / version / mobile / safari
+  - **Media Distanza**: 62.43
+  - **Conteggio totale**: 2
+
+* **User Agent**: mozilla / applewebkit / khtml / gecko / mobile
+  - **Media Distanza**: 4.47
+  - **Conteggio totale**: 25
+
+* **User Agent**: mozilla / applewebkit / khtml / gecko / mobile / safari
+  - **Media Distanza**: 4.30
+  - **Conteggio totale**: 43
+
+* **User Agent**: mozilla / applewebkit / khtml / gecko / version / mobile / safari
+  - **Media Distanza**: 3.82
+  - **Conteggio totale**: 621
+
+* **User Agent**: mozilla / ipad / applewebkit / khtml / gecko / crios / mobile / safari
+  - **Media Distanza**: 33.81
+  - **Conteggio totale**: 1
+
+* **User Agent**: mozilla / ipad / applewebkit / khtml / gecko / mobile
+  - **Media Distanza**: 31.40
+  - **Conteggio totale**: 1
+
+* **User Agent**: mozilla / ipad / applewebkit / khtml / gecko / mobile / safari
+  - **Media Distanza**: 31.30
+  - **Conteggio totale**: 3
+
+* **User Agent**: mozilla / ipad / applewebkit / khtml / gecko / version / mobile / safari
+  - **Media Distanza**: 31.15
+  - **Conteggio totale**: 3
+
+* **User Agent**: mozilla / macintosh / intel / applewebkit / khtml / like / gecko
+  - **Media Distanza**: 7.73
+  - **Conteggio totale**: 5
+
+* **User Agent**: mozilla / macintosh / intel / applewebkit / khtml / like / gecko / chrome / safari
+  - **Media Distanza**: 7.82
+  - **Conteggio totale**: 113
+
+* **User Agent**: mozilla / macintosh / intel / applewebkit / khtml / like / gecko / version / mobile / safari
+  - **Media Distanza**: 6.23
+  - **Conteggio totale**: 3
+
+* **User Agent**: mozilla / macintosh / intel / applewebkit / khtml / like / gecko / version / safari
+  - **Media Distanza**: 6.77
+  - **Conteggio totale**: 124
+
+* **User Agent**: mozilla / macintosh / intel / applewebkit / khtml / like / gecko / version / safari / applebot / http / apple / applebot
+  - **Media Distanza**: 42.62
+  - **Conteggio totale**: 8
+
+* **User Agent**: mozilla / macintosh / intel / gecko / firefox
+  - **Media Distanza**: 9.97
+  - **Conteggio totale**: 20
+</details
+  
+## Cluster 3
+  Cluster 2 represents sessions from apple mobile devices and we can label this traffic as **Human Traffic**
+<details> 
+
+<summary>  Expand details : </summary>
 #to do
 
