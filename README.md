@@ -20,7 +20,8 @@ The project’s goal is to make a machine learning model for bot and application
 3. [Features Selection and Design](#features-selection-and-design)
 4. [Features Analysis](#features-analysis)
 5. [Machine Learning Model](#machine-learning-model)
-6. [To do]()
+6. [Results](#results)
+7. [To do]()
 
 
 ## The Dataset
@@ -222,6 +223,16 @@ These are plots of some interesting relationships between the feaures
 </details>
 
 ## Machine Learning Model
+
+The **Kmeans clustering** method was my solution for this unsupervised learning problem. The number of clusters was chosen with a combination of the **elbow method**, **silhouette score** and **domain knowledge,** and finally a total number of **12 clusters** was chosen.
+
+* Elbow Method:
+ <center><img src="/img/Elbow.png" alt="elbow method"></center>
+ 
+* Silhouette Score:
+ <center><img src="/img/Silhouette.png" alt="Silhouette Score"></center>
+ 
+## Results
 
 #to do
 
