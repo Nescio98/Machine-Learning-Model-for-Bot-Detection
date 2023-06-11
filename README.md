@@ -16,7 +16,9 @@ The project’s goal is to make a machine learning model for bot and application
 ## Table of Content
 
 1. [The Dataset](#the-dataset)
-2. [To do]()
+2. [The Concept of Session](#the-concept-of-session)
+3. [Features Selection and Design](#features-selection-and-design)
+4. [To do]()
 
 
 ## The Dataset
@@ -128,5 +130,20 @@ Our dataset is composed by <b>traffic logs</b> collected by a WAAP (a sort of fi
   - *for example* Amazon-Route53-Health-Check-Service (ref 293dce71-3b67-498f-bd2c-4564e152a418; report amzn.to/1veLAci)
 </details> 
 
+## The Concept of Session
+The unit to be distinguished in the model is the unit of a visit to the **same site** by the **same cookie** with the **same user agent** and **IP**. 
 
+Site visits should be defined in terms of **sessions**. The session starts from the **first view** of the cookie page, and page views **within 30 minutes of the previous one** are considered to be the same session. 
+
+If a page view lasts **more than 30 minutes (T),** it is treated as a separate **session**.
+
+### Tweak
+Usually, a 30-min period is adopted as the threshold in Web-mining studies. Nevertheless, in my experiments I noticed that using the 30-minute threshold as the only criterion for breaking the click-stream into sessions was not sufficient. I observed the sessions extracted when using the 30-minute value and noticed that, for longer sessions (in terms of number of requests), click-streams belonging to a semantically continuous navigation activity were split into separate sessions. To cope with this issue, I introduce a procedure which adapts the threshold value dynamically, according to the number of session requests so far. In particular, for sessions with less than **rmax** requests so far, I set the threshold value to **t1**. When the number of requests reaches rmax, I increase the threshold value to **t2 > t1**. In other words, we allow a bigger time-lapse between consecutive requests for larger sessions. By trying various threshold values and studying the resulted sessions, we determined that setting **rmax to 100**, **t1 to 30 min** and **t2 to 60 min** gave the best results. 
+
+
+## Features Selection and Design
+A total of <b>19 features</b> was been designed and extracted from our datased:
+<details> 
+
+<summary>  Expand details : </summary>
 #to do
