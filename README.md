@@ -265,7 +265,7 @@ Cluster 0 represents sessions from Facebook mobile applications, we can label th
 </details>
 
 
-## Cluster 1:
+### Cluster 1:
 Cluster 1 represents sessions from applications such as python, java, and other bots, so we can label this as **Programmatic Traffic**
 <details> 
 
@@ -335,7 +335,7 @@ Cluster 1 represents sessions from applications such as python, java, and other 
   
   </details>
   
-## Cluster 2:
+### Cluster 2:
 Cluster 2 represents sessions from apple mobile devices and we can label this traffic as **Human Traffic**
 <details> 
 
@@ -402,8 +402,38 @@ Cluster 2 represents sessions from apple mobile devices and we can label this tr
   - **Conteggio totale**: 20
   </details>
   
-## Cluster 3
-  Cluster 2 represents sessions from apple mobile devices and we can label this traffic as **Human Traffic**
+### Cluster 3
+Cluster 3 represents sessions from yandexbot and we can label this traffic as **Programmatic Traffic**
+<details> 
+
+<summary>  Expand details : </summary>
+  
+**User Agent** : mozilla / compatible / yandexbot / http / yandex / bots
+
+**Media Distanza** : 5.91
+
+**Conteggio totale** : 88
+
+
+
+**User Agent** : mozilla / compatible / yandexbot / http / yandex / bots / applewebkit / khtml / like / gecko / chrome
+
+**Media Distanza** : 5.96
+
+**Conteggio totale** : 7
+
+
+
+**User Agent** : mozilla / compatible / yandexrenderresourcesbot / http / yandex / bots / applewebkit / khtml / like / gecko / chrome
+
+**Media Distanza** : 22.46
+
+**Conteggio totale** : 16
+</details>
+
+### Cluster 4
+
+Cluster 3 represents sessions from yandexbot and we can label this traffic as **Programmatic Traffic**
 <details> 
 
 <summary>  Expand details : </summary>
