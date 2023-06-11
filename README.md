@@ -146,4 +146,18 @@ A total of <b>19 features</b> was been designed and extracted from our datased:
 <details> 
 
 <summary>  Expand details : </summary>
+
+  * **userAgent**: The user agent of the user who made the request.
+    - I adopted the **bag of words expression**, a general conversion process of text information
+      ```
+      Initial State：
+      Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1
+      Safari/605.1.15
+
+      Transformed：
+      mozilla / macintosh / intel / mac / os / x / applewebkit / khtml / like / gecko / version / safari
+      ```
+  * **noRequests**: The total number of requests (session lenght)
+    - This value is obtained by counting the number of requests that compose the session
+</details> 
 #to do
