@@ -159,5 +159,22 @@ A total of <b>19 features</b> was been designed and extracted from our datased:
       ```
   * **noRequests**: The total number of requests (session lenght)
     - This value is obtained by counting the number of requests that compose the session
+  * **volume**: The total volume of data sent to the client [KB]
+  - This value is obtained by summing the volume transferred to the client in each request for each session
+  * avgVolume**: The average volume transferred to the client
+  * **stDevVolume**: The standard deviation of the volume transferred to the client
+  * **totalTime**: The session duration in seconds
+    - This value is obtained by subtracting the timestamp of the most recent request from the least recent one
+  * **avgTime**: The average time between requests
+  * **stDevTime**: The standard deviation of the volume transferred to the client between requests
+  * **Night**: The % of requests made between 2am to 6am (local time)
+    - This value was obtained by a conversion of the timezone
+  * **Repeated**: The reoccurence rate of file requests
+  * **Error**: The % of requests with status >= 400
+  * **GET**: The % of requests made with GET method
+  * **POST**: The % of requests made with POST method
+  * **OTHER**: The % of requests made with other methods
+  * **Width**: The width of the traversal path in the url space
+    - 
 </details> 
 #to do
