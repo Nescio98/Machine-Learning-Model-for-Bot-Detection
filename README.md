@@ -233,6 +233,35 @@ The **Kmeans clustering** method was my solution for this unsupervised learning 
  <center><img src="/img/Silhouette.png" alt="Silhouette Score"></center>
  
 ## Results
+The results were explored manually, comparing user agents within the same clusters and the average distance from their centroid
 
+### Cluster 0:
+Cluster 0 represents sessions from Facebook mobile applications, we can label this cluster as **Human Traffic**
+<details> 
+
+<summary>  Expand details : </summary>
+  
+* **User Agent** : mozilla / applewebkit / khtml / gecko / mobile / fban / fbios / fbav / fbbv / fbdv / fbmd / fbsn / fbsv / fbss / fbid / phone / fblc / qaau / fbop / fbrv
+
+  - **Media Distanza** : 150.39
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / applewebkit / khtml / gecko / mobile / fban / fbios / fbdv / fbmd / fbsn / fbsv / fbss / fbid / phone / fblc / fbop
+
+  - **Media Distanza** : 104.39
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / linux / android / build / huaweimed / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / fban / fblc / fbav / fbdm / displaymetrics / density / width / height / scaleddensity / xdpi / ydpi / densitydpi / noncompatwidthpixels / noncompatheightpixels / noncompatdensity / noncompatdensitydpi / noncompatxdpi / noncompatydpi
+
+  - **Media Distanza** : 291.64
+
+  - **Conteggio totale** : 1
+</details>
 #to do
 
