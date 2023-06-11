@@ -408,34 +408,871 @@ Cluster 3 represents sessions from yandexbot and we can label this traffic as **
 
 <summary>  Expand details : </summary>
   
-**User Agent** : mozilla / compatible / yandexbot / http / yandex / bots
+* **User Agent** : mozilla / compatible / yandexbot / http / yandex / bots
+  - **Media Distanza** : 5.91
+  - **Conteggio totale** : 88
 
-**Media Distanza** : 5.91
+* **User Agent** : mozilla / compatible / yandexbot / http / yandex / bots / applewebkit / khtml / like / gecko / chrome
+  - **Media Distanza** : 5.96
+  - **Conteggio totale** : 7
 
-**Conteggio totale** : 88
-
-
-
-**User Agent** : mozilla / compatible / yandexbot / http / yandex / bots / applewebkit / khtml / like / gecko / chrome
-
-**Media Distanza** : 5.96
-
-**Conteggio totale** : 7
-
-
-
-**User Agent** : mozilla / compatible / yandexrenderresourcesbot / http / yandex / bots / applewebkit / khtml / like / gecko / chrome
-
-**Media Distanza** : 22.46
-
-**Conteggio totale** : 16
+* **User Agent** : mozilla / compatible / yandexrenderresourcesbot / http / yandex / bots / applewebkit / khtml / like / gecko / chrome
+  - **Media Distanza** : 22.46
+  - **Conteggio totale** : 16
 </details>
 
 ### Cluster 4
 
-Cluster 3 represents sessions from yandexbot and we can label this traffic as **Programmatic Traffic**
+Cluster 4 represents sessions from reactor netty and we can label this traffic as **Programmatic Traffic**
 <details> 
 
 <summary>  Expand details : </summary>
+  
+* **User Agent** : reactornetty / release
+
+  - **Media Distanza** : 1.00
+
+  - **Conteggio totale** : 11
+ </details>
+ 
+ 
+### Cluster 5
+
+Cluster 5 represents sessions from differents bots, like GoogleBot, and we can label this traffic as **Programmatic Traffic**
+<details> 
+
+<summary>  Expand details : </summary>
+
+**User Agent** : adsbot / google / http / google / adsbot / html
+- **Media Distanza** : 31.02
+- **Conteggio totale** : 9
+
+**User Agent** : chrome / privacy / preserving / prefetch / proxy
+- **Media Distanza** : 78.67
+- **Conteggio totale** : 5
+
+**User Agent** : dalvik / linux / android / build
+- **Media Distanza** : 51.55
+- **Conteggio totale** : 2
+
+**User Agent** : dalvik / linux / android / huawei / build / huaweilyo
+- **Media Distanza** : 102.85
+- **Conteggio totale** : 1
+
+**User Agent** : expanse / palo / alto / networks / company / searches / across / global / space / multiple / times / identify / customers / presences / internet / would / like / excluded / from / scans / please / send / addresses / domains / scaninfo / paloaltonetworks
+- **Media Distanza** : 217.82
+- **Conteggio totale** : 4
+
+**User Agent** : facebookexternalhit / http / facebook / externalhit / uatext
+- **Media Distanza** : 124.90
+- **Conteggio totale** : 2
+
+**User Agent** : googlebot / image
+- **Media Distanza** : 33.86
+- **Conteggio totale** : 4
+
+**User Agent** : leroy / merlin / leroymerlin / festadelbricolage / build / alamofire
+- **Media Distanza** : 9.55
+- **Conteggio totale** : 185
+
+**User Agent** : leroy / merlin / leroymerlin / festadelbricolage / build / alamofire / appioslmit
+- **Media Distanza** : 21.14
+- **Conteggio totale** : 1
+
+**User Agent** : mozilla / applewebkit / khtml / gecko / version / safari / compatible / adsbot / google / http / google / mobile / adsbot / html
+- **Media Distanza** : 31.45
+- **Conteggio totale** : 1
+
+**User Agent** : mozilla / applewebkit / khtml / like / gecko / compatible / googlebot / http / google / html / chrome / safari
+- **Media Distanza** : 13.80
+- **Conteggio totale** : 29
+
+**User Agent** : mozilla / compatible / coccocbot / http / help / coccoc / searchengine
+- **Media Distanza** : 62.37
+- **Conteggio totale** : 3
+
+**User Agent** : mozilla / compatible / coccocbot / image / http / help / coccoc / searchengine
+- **Media Distanza** : 69.86
+- **Conteggio totale** : 4
+
+**User Agent** : mozilla / compatible / dotbot / https / opensiteexplorer / dotbot / help
+- **Media Distanza** : 61.09
+- **Conteggio totale** : 5
+
+**User Agent** : mozilla / compatible / googlebot / http / google / html
+- **Media Distanza** : 13.51
+- **Conteggio totale** : 35
+
+**User Agent** : mozilla / compatible / qwantify / https / qwant
+- **Media Distanza** : 125.53
+- **Conteggio totale** : 1
+
+**User Agent** : mozilla / compatible / semrushbot / http / semrush / html
+- **Media Distanza** : 42.17
+- **Conteggio totale** : 9
+
+**User Agent** : mozilla / compatible / seznambot / http / napoveda / seznam / seznambot / intro
+- **Media Distanza** : 88.01
+- **Conteggio totale** : 4
+
+**User Agent** : mozilla / linux / android / build / applewebkit / khtml / like / gecko / chrome / mobile / safari / compatible / google / read / aloud / https / support / google / webmasters / answer
+- **Media Distanza** : 62.16
+- **Conteggio totale** : 10
+
+**User Agent** : mozilla / linux / android / nexus / build / applewebkit / khtml / like / gecko / chrome / mobile / safari / compatible / googlebot / http / google / html
+- **Media Distanza** : 18.52
+- **Conteggio totale** : 44
+
+**User Agent** : mozilla / linux / applewebkit / khtml / like / gecko / chrome / safari / pagerenderer / https / developers / google / snippet
+- **Media Distanza** : 58.04
+- **Conteggio totale** : 7
+
+**User Agent** : mozilla / linux / netcast / applewebkit / khtml / like / gecko / chrome / safari / smarttv / colt
+- **Media Distanza** : 152.99
+- **Conteggio totale** : 1
+
+**User Agent** : mozilla / windows / skypeuripreview / preview / skype / preview / microsoft
+- **Media Distanza** : 159.18
+- **Conteggio totale** : 1
+  </details>
+  
+  
+### Cluster 6
+
+Cluster 6 represents sessions from differents android mobile devices, and we can label this traffic as **Human Traffic**
+<details> 
+
+<summary>  Expand details : </summary>
+
+* **User Agent** : mithril / function / write
+
+  - **Media Distanza** : 153.26
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / android / mobile / gecko / firefox
+
+  - **Media Distanza** : 7.84
+
+  - **Conteggio totale** : 14
+
+
+
+* **User Agent** : mozilla / android / tablet / gecko / firefox
+
+  - **Media Distanza** : 88.63
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / applewebkit / khtml / gecko / fxios / mobile / safari
+
+  - **Media Distanza** : 62.57
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / applewebkit / khtml / gecko / mobile / appioslmit / leroy / merlin
+
+  - **Media Distanza** : 19.92
+
+  - **Conteggio totale** : 21
+
+
+
+* **User Agent** : mozilla / applewebkit / khtml / like / gecko / chrome / safari
+
+  - **Media Distanza** : 8.52
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / applewebkit / khtml / like / gecko / compatible / http / bing / chrome / safari
+
+  - **Media Distanza** : 14.99
+
+  - **Conteggio totale** : 69
+
+
+
+* **User Agent** : mozilla / cros / applewebkit / khtml / like / gecko / chrome / safari
+
+  - **Media Distanza** : 39.89
+
+  - **Conteggio totale** : 5
+
+
+
+* **User Agent** : mozilla / gecko / firefox
+
+  - **Media Distanza** : 7.77
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : mozilla / linux / android / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 4.05
+
+  - **Conteggio totale** : 924
+
+
+
+* **User Agent** : mozilla / linux / android / applewebkit / khtml / like / gecko / chrome / mobile / safari / edga
+
+  - **Media Distanza** : 28.08
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : mozilla / linux / android / applewebkit / khtml / like / gecko / chrome / safari
+
+  - **Media Distanza** : 3.55
+
+  - **Conteggio totale** : 15
+
+
+
+* **User Agent** : mozilla / linux / android / applewebkit / khtml / like / gecko / chrome / yabrowser / mobile / safari
+
+  - **Media Distanza** : 88.36
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / applewebkit / khtml / like / gecko / version / chrome / mobile / duckduckgo / safari
+
+  - **Media Distanza** : 39.91
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / applewebkit / khtml / like / gecko / version / chrome / mobile / safari
+
+  - **Media Distanza** : 8.33
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / armor / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 88.39
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / asus / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 51.08
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : mozilla / linux / android / build / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 7.17
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari
+
+  - **Media Distanza** : 6.57
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : mozilla / linux / android / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / fbav
+
+  - **Media Distanza** : 26.23
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : mozilla / linux / android / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / leroy / merlin / appandroidlmit
+
+  - **Media Distanza** : 9.15
+
+  - **Conteggio totale** : 64
+
+
+
+* **User Agent** : mozilla / linux / android / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / xiaomi / miuibrowser
+
+  - **Media Distanza** : 17.65
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / xiaomi / miuibrowser / swan / mibrowser
+
+  - **Media Distanza** : 126.13
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / build / huaweiane / applewebkit / khtml / like / gecko / version / chrome / mobile / safari
+
+  - **Media Distanza** : 88.53
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / build / huaweimar / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / leroy / merlin / appandroidlmit
+
+  - **Media Distanza** : 88.77
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / build / huaweipra / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 62.94
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / linux / android / hmscore / applewebkit / khtml / like / gecko / chrome / huaweibrowser / mobile / safari
+
+  - **Media Distanza** : 72.16
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / hmscore / gmscore / applewebkit / khtml / like / gecko / chrome / huaweibrowser / mobile / safari
+
+  - **Media Distanza** : 95.42
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / linux / android / huawei / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 13.86
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / linux / android / kfonwi / applewebkit / khtml / gecko / silk / chrome / safari
+
+  - **Media Distanza** : 124.94
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / lenovo / applewebkit / khtml / like / gecko / chrome / safari
+
+  - **Media Distanza** : 51.06
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : mozilla / linux / android / lite / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 25.65
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / lite / applewebkit / khtml / like / gecko / chrome / mobile / safari / edga
+
+  - **Media Distanza** : 37.89
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / lite / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / xiaomi / miuibrowser
+
+  - **Media Distanza** : 30.98
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : mozilla / linux / android / midnight / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 88.38
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / moto / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 25.64
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : mozilla / linux / android / moto / build / rons / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 92.06
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / moto / plus / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 44.24
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / linux / android / moto / power / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 91.95
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / motorola / edge / lite / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 69.37
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / motorola / edge / plus / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 73.92
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / motorola / razr / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 102.01
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / nokia / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 62.53
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / note / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / leroy / merlin / appandroidlmit
+
+  - **Media Distanza** : 14.09
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / linux / android / note / lite / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 30.18
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / note / lite / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / leroy / merlin / appandroidlmit
+
+  - **Media Distanza** : 29.09
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / note / lite / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / xiaomi / miuibrowser
+
+  - **Media Distanza** : 32.80
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / oneplus / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 31.35
+
+  - **Conteggio totale** : 5
+
+
+
+* **User Agent** : mozilla / linux / android / oneplus / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari
+
+  - **Media Distanza** : 31.91
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / oneplus / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / leroy / merlin / appandroidlmit
+
+  - **Media Distanza** : 32.60
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / pixel / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 33.49
+
+  - **Conteggio totale** : 6
+
+
+
+* **User Agent** : mozilla / linux / android / poco / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / xiaomi / miuibrowser
+
+  - **Media Distanza** : 64.89
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / redmi / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 11.08
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / redmi / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / xiaomi / miuibrowser
+
+  - **Media Distanza** : 20.71
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : mozilla / linux / android / redmi / note / applewebkit / khtml / like / gecko / chrome / mobile / safari
+
+  - **Media Distanza** : 15.61
+
+  - **Conteggio totale** : 19
+
+
+
+* **User Agent** : mozilla / linux / android / redmi / note / applewebkit / khtml / like / gecko / chrome / mobile / safari / edga
+
+  - **Media Distanza** : 31.87
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / redmi / note / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / fbav
+
+  - **Media Distanza** : 30.26
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / linux / android / redmi / note / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / leroy / merlin / appandroidlmit
+
+  - **Media Distanza** : 17.60
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / redmi / note / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / xiaomi / miuibrowser
+
+  - **Media Distanza** : 23.42
+
+  - **Conteggio totale** : 19
+
+
+
+* **User Agent** : mozilla / linux / android / redmi / plus / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / xiaomi / miuibrowser
+
+  - **Media Distanza** : 41.62
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / samsung / applewebkit / khtml / like / gecko / samsungbrowser / chrome / mobile / safari
+
+  - **Media Distanza** : 7.91
+
+  - **Conteggio totale** : 238
+
+
+
+* **User Agent** : mozilla / linux / android / samsung / applewebkit / khtml / like / gecko / samsungbrowser / chrome / safari
+
+  - **Media Distanza** : 7.92
+
+  - **Conteggio totale** : 6
+
+
+
+* **User Agent** : mozilla / linux / android / samsung / bxxs / applewebkit / khtml / like / gecko / samsungbrowser / chrome / mobile / safari
+
+  - **Media Distanza** : 62.83
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / linux / android / samsung / bxxu / applewebkit / khtml / like / gecko / samsungbrowser / chrome / mobile / safari
+
+  - **Media Distanza** : 30.39
+
+  - **Conteggio totale** : 7
+
+
+
+* **User Agent** : mozilla / linux / android / samsung / bxxu / ewch / applewebkit / khtml / like / gecko / samsungbrowser / chrome / mobile / safari
+
+  - **Media Distanza** : 93.34
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / samsung / bxxu / hwce / applewebkit / khtml / like / gecko / samsungbrowser / chrome / mobile / safari
+
+  - **Media Distanza** : 93.34
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / samsung / fnxxs / applewebkit / khtml / like / gecko / samsungbrowser / chrome / mobile / safari
+
+  - **Media Distanza** : 51.46
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : mozilla / linux / android / samsung / fxxsghwc / applewebkit / khtml / like / gecko / samsungbrowser / chrome / mobile / safari
+
+  - **Media Distanza** : 88.67
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / samsung / fxxu / applewebkit / khtml / like / gecko / samsungbrowser / chrome / mobile / safari
+
+  - **Media Distanza** : 88.60
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / samsung / fxxubcsi / applewebkit / khtml / like / gecko / samsungbrowser / chrome / mobile / safari
+
+  - **Media Distanza** : 88.62
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / linux / android / samsung / fxxuhfvg / applewebkit / khtml / like / gecko / samsungbrowser / chrome / mobile / safari
+
+  - **Media Distanza** : 62.86
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / linux / android / samsung / gxxs / applewebkit / khtml / like / gecko / samsungbrowser / chrome / mobile / safari
+
+  - **Media Distanza** : 62.90
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / linux / android / xiaomi / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / xiaomi / miuibrowser
+
+  - **Media Distanza** : 22.20
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : mozilla / linux / applewebkit / khtml / like / gecko / chrome / safari
+
+  - **Media Distanza** : 4.93
+
+  - **Conteggio totale** : 36
+
+
+
+* **User Agent** : mozilla / linux / applewebkit / khtml / like / gecko / chrome / safari / xiaomi / miuibrowser
+
+  - **Media Distanza** : 16.89
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / linux / applewebkit / khtml / like / gecko / samsungbrowser / chrome / safari
+
+  - **Media Distanza** : 6.00
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / linux / gecko / firefox
+
+  - **Media Distanza** : 7.72
+
+  - **Conteggio totale** : 5
+
+
+
+* **User Agent** : mozilla / smart / linux / tizen / applewebkit / khtml / like / gecko / chrome / safari
+
+  - **Media Distanza** : 124.96
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / ubuntu / linux / gecko / firefox
+
+  - **Media Distanza** : 37.18
+
+  - **Conteggio totale** : 6
+
+
+
+* **User Agent** : mozilla / windows / applewebkit / khtml / like / gecko / chrome / safari
+
+  - **Media Distanza** : 4.26
+
+  - **Conteggio totale** : 1771
+
+
+
+* **User Agent** : mozilla / windows / applewebkit / khtml / like / gecko / chrome / safari / atcontent
+
+  - **Media Distanza** : 88.39
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / windows / applewebkit / khtml / like / gecko / chrome / safari / edge
+
+  - **Media Distanza** : 40.44
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / windows / applewebkit / khtml / like / gecko / chrome / safari / trailer
+
+  - **Media Distanza** : 88.36
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / windows / applewebkit / khtml / like / gecko / chrome / safari / unique
+
+  - **Media Distanza** : 88.37
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / windows / applewebkit / khtml / like / gecko / compatible / ezndno / chrome / safari
+
+  - **Media Distanza** : 51.32
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : mozilla / windows / gecko / firefox
+
+  - **Media Distanza** : 7.87
+
+  - **Conteggio totale** : 185
+
+
+
+* **User Agent** : mozilla / windows / gecko / firefox / ggpht / googleimageproxy
+
+  - **Media Distanza** : 38.64
+
+  - **Conteggio totale** : 11
+
+
+
+* **User Agent** : mozilla / windows / gecko / firefox / likewise
+
+  - **Media Distanza** : 62.88
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / windows / trident / lcte / like / gecko
+
+  - **Media Distanza** : 96.91
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / windows / trident / like / gecko
+
+  - **Media Distanza** : 39.84
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / winnt
+
+  - **Media Distanza** : 88.66
+
+  - **Conteggio totale** : 1
+
+
+
+
+ 
 #to do
 
