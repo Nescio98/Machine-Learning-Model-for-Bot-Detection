@@ -263,5 +263,74 @@ Cluster 0 represents sessions from Facebook mobile applications, we can label th
 
   - **Conteggio totale** : 1
 </details>
+
+
+## Cluster 1:
+Cluster 1 represents sessions from applications such as python, java, and other bots, so we can label this as **programmatic traffic**
+<details> 
+
+<summary>  Expand details : </summary>
+  
+* **User Agent** : apache / httpclient / java
+
+  - **Media Distanza** : 22.11
+
+  - **Conteggio totale** : 15
+
+
+
+* **User Agent** : java / http / client
+
+  - **Media Distanza** : 54.34
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : linkedinbot / compatible / mozilla / apache / httpclient / http / linkedin
+
+  - **Media Distanza** : 122.72
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / compatible / msie / windows / trident / slcc / media / center / cmdtdfjs / wbxapp / zoom
+
+  - **Media Distanza** : 216.21
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / windows / applewebkit / khtml / like / gecko / chrome / safari / edition / campaign
+
+  - **Media Distanza** : 123.64
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : python / aiohttp
+
+  - **Media Distanza** : 94.96
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : python / requests
+
+  - **Media Distanza** : 56.25
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : zoominfobot / zoominfobot / zoominfo
+
+  - **Media Distanza** : 123.63
+
+  - **Conteggio totale** : 1
 #to do
 
