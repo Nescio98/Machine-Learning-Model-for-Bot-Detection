@@ -19,7 +19,8 @@ The project’s goal is to make a machine learning model for bot and application
 2. [The Concept of Session](#the-concept-of-session)
 3. [Features Selection and Design](#features-selection-and-design)
 4. [Features Analysis](#features-analysis)
-5. [To do]()
+5. [Machine Learning Model](#machine-learning-model)
+6. [To do]()
 
 
 ## The Dataset
@@ -205,13 +206,22 @@ These are plots of some interesting relationships between the feaures
 <details> 
 
 <summary>  Expand details : </summary>
+  
   * Distribution between **volume** and **number of requests**
+    <center><img src="/img/volume-noreq.png" alt="volume vs number of requests"></center>
   
   * Distribution between **total_time** and **number of requests**
+    <center><img src="/img/total_time-noreq.png" alt="total time vs number of requests"></center>
   
   * Distribution between **recurrence** and **number of requests**
+    <center><img src="/img/recu-noreq.png" alt="recurrence vs number of requests"></center>
   
   * Distribution between **avgTime** and **total_time**
+    <center><img src="/img/avgtime-totaltime.png" alt="average time vs total time"></center>
   
 </details>
+
+## Machine Learning Model
+
 #to do
+
