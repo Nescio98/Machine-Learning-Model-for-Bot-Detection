@@ -159,22 +159,43 @@ A total of <b>19 features</b> was been designed and extracted from our datased:
       ```
   * **noRequests**: The total number of requests (session lenght)
     - This value is obtained by counting the number of requests that compose the session
+  
   * **volume**: The total volume of data sent to the client [KB]
-  - This value is obtained by summing the volume transferred to the client in each request for each session
-  * avgVolume**: The average volume transferred to the client
+    - This value is obtained by summing the volume transferred to the client in each request for each session
+  
+  * **avgVolume**: The average volume transferred to the client
+  
   * **stDevVolume**: The standard deviation of the volume transferred to the client
+  
   * **totalTime**: The session duration in seconds
     - This value is obtained by subtracting the timestamp of the most recent request from the least recent one
+  
   * **avgTime**: The average time between requests
+  
   * **stDevTime**: The standard deviation of the volume transferred to the client between requests
+  
   * **Night**: The % of requests made between 2am to 6am (local time)
     - This value was obtained by a conversion of the timezone
+  
   * **Repeated**: The reoccurence rate of file requests
+  
   * **Error**: The % of requests with status >= 400
+  
   * **GET**: The % of requests made with GET method
+  
   * **POST**: The % of requests made with POST method
+  
   * **OTHER**: The % of requests made with other methods
+  
   * **Width**: The width of the traversal path in the url space
-    - 
+  * **Depth**: The depth of the traversal path in the url space
+    - The **width and depth** attributes are computed by one string a representative graph based on the URI names of the requested pages. For example, if a session contains requests for the following pages, {/A, /A/B, /A/B/C}, then its width will be 1 and its depth will be 3. Basically, the width attribute measures the number of leaf nodes generated in the graph while the depth attribute measures the maximum depth of the tree(s) within the graph. Therefore, a session that contains requests for {/A, /A/B, /C, /D} will have a width of 3 and a depth of 2.
+  
+  * **nullReferrer**: The % of requests with referrer = "-"
+  
+  * **Image**: The % of images requested
+  
+  * **MaxSustainedClickRate**: The maximum number of clicks in a sliding window.
+    - A **click** is a request for an HTML file. This feature corresponds to the maximum number of HTML requests achieved within a certain time-window inside a session. The intuition behind this is that there is an upper bound on the maximum number of clicks that a human can issue within some specific time-frame t, which is dictated by human factors. To capture this feature, we first set the time-frame value of t and then use a sliding window of time t over a given session in order to measure the maximum sustained click rate in that session. For example, if we set t to 12 s and find that the maximum number of clicks within some 12-s time-window inside that session is 36, we conclude that the maximum sustained click rate is 3 clicks per second. This indicates a robot-like rather than a human-like behavior. The sliding window approach starts from the first HTML request of a session and keeps a record of the maximum number of clicks within each window, sliding the window by one HTML request until we reach the last one of the given session. The maximum of all the clicks per window gives the value of this feature
 </details> 
 #to do
