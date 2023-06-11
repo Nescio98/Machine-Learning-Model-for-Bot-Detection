@@ -18,7 +18,8 @@ The project’s goal is to make a machine learning model for bot and application
 1. [The Dataset](#the-dataset)
 2. [The Concept of Session](#the-concept-of-session)
 3. [Features Selection and Design](#features-selection-and-design)
-4. [To do]()
+4. [Features Analysis](#features-analysis)
+5. [To do]()
 
 
 ## The Dataset
@@ -198,4 +199,19 @@ A total of <b>19 features</b> was been designed and extracted from our datased:
   * **MaxSustainedClickRate**: The maximum number of clicks in a sliding window.
     - A **click** is a request for an HTML file. This feature corresponds to the maximum number of HTML requests achieved within a certain time-window inside a session. The intuition behind this is that there is an upper bound on the maximum number of clicks that a human can issue within some specific time-frame t, which is dictated by human factors. To capture this feature, we first set the time-frame value of t and then use a sliding window of time t over a given session in order to measure the maximum sustained click rate in that session. For example, if we set t to 12 s and find that the maximum number of clicks within some 12-s time-window inside that session is 36, we conclude that the maximum sustained click rate is 3 clicks per second. This indicates a robot-like rather than a human-like behavior. The sliding window approach starts from the first HTML request of a session and keeps a record of the maximum number of clicks within each window, sliding the window by one HTML request until we reach the last one of the given session. The maximum of all the clicks per window gives the value of this feature
 </details> 
+
+## Features Analysis
+These are plots of some interesting relationships between the feaures
+<details> 
+
+<summary>  Expand details : </summary>
+  * Distribution between **volume** and **number of requests**
+  
+  * Distribution between **total_time** and **number of requests**
+  
+  * Distribution between **recurrence** and **number of requests**
+  
+  * Distribution between **avgTime** and **total_time**
+  
+</details>
 #to do
