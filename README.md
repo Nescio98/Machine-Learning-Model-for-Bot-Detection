@@ -333,6 +333,8 @@ Cluster 1 represents sessions from applications such as python, java, and other 
 
   - **Conteggio totale** : 1
   
+  </details>
+  
 ## Cluster 2:
 Cluster 2 represents sessions from apple mobile devices and we can label this traffic as **Human Traffic**
 <details> 
