@@ -398,7 +398,7 @@ Cluster 2 represents sessions from apple mobile devices and we can label this tr
 * **User Agent**: mozilla / macintosh / intel / gecko / firefox
   - **Media Distanza**: 9.97
   - **Conteggio totale**: 20
-</details
+  </details>
   
 ## Cluster 3
   Cluster 2 represents sessions from apple mobile devices and we can label this traffic as **Human Traffic**
