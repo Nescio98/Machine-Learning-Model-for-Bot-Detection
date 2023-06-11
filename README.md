@@ -1269,9 +1269,552 @@ Cluster 6 represents sessions from differents android mobile devices, and we can
   - **Media Distanza** : 88.66
 
   - **Conteggio totale** : 1
+</details>
+
+
+### Cluster 7
+Cluster 7 represents sessions from Axios, and we can label this traffic as **Programmatic Traffic**
+<details> 
+
+<summary>  Expand details : </summary>
+  
+* **User Agent** : axios
+
+  - **Media Distanza** : 2.15
+
+  - **Conteggio totale** : 78
+  
+  </details>
+  
+### Cluster 8
+Cluster 8 represents sessions from Petal Bot, and we can label this traffic as **Programmatic Traffic**
+<details> 
+
+<summary>  Expand details : </summary>
+  
+  * **User Agent** : mozilla / compatible / petalbot / https / webmaster / petalsearch / site / petalbot
+
+  - **Media Distanza** : 5.84
+
+  - **Conteggio totale** : 13
 
 
 
+* **User Agent** : mozilla / linux / android / applewebkit / khtml / like / gecko / mobile / safari / compatible / petalbot / https / webmaster / petalsearch / site / petalbot
+
+  - **Media Distanza** : 1.88
+
+  - **Conteggio totale** : 273
+
+
+
+* **User Agent** : mozilla / linux / android / build / huaweiana / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / huawei / anyoffice / huawei / works
+
+  - **Media Distanza** : 111.17
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / linux / build / applewebkit / khtml / like / gecko / version / chrome / mobile / safari / instagram / xiaomi / diting / qcom
+
+  - **Media Distanza** : 153.29
+
+  - **Conteggio totale** : 1
+  
+  </details>
+  
+### Cluster 9
+Cluster 9 represents sessions from applications like curl, dart and insomnia, and we can label this traffic as **Programmatic Traffic**
+
+<details> 
+
+<summary>  Expand details : </summary>
+  
+* **User Agent** : apple / webkit / networking / cfnetwork / darwin
+
+  - **Media Distanza** : 146.71
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : bbot
+
+  - **Media Distanza** : 88.43
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : compatible / msie / windows / trident
+
+  - **Media Distanza** : 53.68
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : curl
+
+  - **Media Distanza** : 44.25
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : dart / dart
+
+  - **Media Distanza** : 19.41
+
+  - **Conteggio totale** : 21
+
+
+
+* **User Agent** : foregenix / threatview / security / auditor / threatview
+
+  - **Media Distanza** : 176.75
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : http / client
+
+  - **Media Distanza** : 51.59
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : https / github / bitinn
+
+  - **Media Distanza** : 17.90
+
+  - **Conteggio totale** : 49
+
+
+
+* **User Agent** : insomnia
+
+  - **Media Distanza** : 63.80
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : macoutlook / build
+
+  - **Media Distanza** : 33.76
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : macoutlook / intelx / build
+
+  - **Media Distanza** : 55.45
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : microsoft / office / excel / desktop / appstore / apple / macbookpro
+
+  - **Media Distanza** : 166.47
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : microsoft / office / windows / mapi
+
+  - **Media Distanza** : 76.73
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mobilesafari / cfnetwork / darwin
+
+  - **Media Distanza** : 113.88
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla
+
+  - **Media Distanza** : 5.95
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / compatible / dataforseobot / https
+
+  - **Media Distanza** : 62.82
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / compatible / duckduckgo / favicons / http / duckduckgo
+
+  - **Media Distanza** : 118.67
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / compatible / https / headline / legal
+
+  - **Media Distanza** : 125.05
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / compatible / msie / windows
+
+  - **Media Distanza** : 36.52
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : mozilla / compatible / msie / windows / trident
+
+  - **Media Distanza** : 53.69
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : mozilla / compatible / uptimerobot / http / uptimerobot
+
+  - **Media Distanza** : 51.63
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : mozilla / windows / gecko / firefox
+
+  - **Media Distanza** : 8.68
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : mozilla / zgrab
+
+  - **Media Distanza** : 62.57
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : node / soap
+
+  - **Media Distanza** : 30.03
+
+  - **Conteggio totale** : 17
+
+
+
+* **User Agent** : office / windows / excel
+
+  - **Media Distanza** : 40.07
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : office / windows / outlook
+
+  - **Media Distanza** : 10.30
+
+  - **Conteggio totale** : 127
+
+
+
+* **User Agent** : okhttp
+
+  - **Media Distanza** : 4.39
+
+  - **Conteggio totale** : 416
+
+
+
+* **User Agent** : reactornetty
+
+  - **Media Distanza** : 26.44
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : safari / cfnetwork / darwin
+
+  - **Media Distanza** : 72.05
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : scanner / android
+
+  - **Media Distanza** : 51.08
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : unknown
+
+  - **Media Distanza** : 27.10
+
+  - **Conteggio totale** : 11
+  
+  </details>
+  
+### Cluster 10
+Cluster 10 represents sessions from the mobile application of LeroyMerlin and we can label this traffic as **Human Traffic**
+
+<details> 
+
+<summary>  Expand details : </summary>
+  
+* **User Agent** : leroy / merlin / android / easymover / samsung / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 22.70
+
+  - **Conteggio totale** : 15
+
+
+
+* **User Agent** : leroy / merlin / android / vending / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 3.98
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : leroy / merlin / android / vending / blade / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 88.20
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : leroy / merlin / android / vending / cubot / note / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 88.92
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : leroy / merlin / android / vending / edge / lite / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 47.00
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : leroy / merlin / android / vending / global / nokia / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 73.82
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : leroy / merlin / android / vending / google / pixel / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 34.12
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : leroy / merlin / android / vending / huawei / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 12.03
+
+  - **Conteggio totale** : 38
+
+
+
+* **User Agent** : leroy / merlin / android / vending / oneplus / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 31.41
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : leroy / merlin / android / vending / oppo / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 15.35
+
+  - **Conteggio totale** : 29
+
+
+
+* **User Agent** : leroy / merlin / android / vending / realme / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 33.01
+
+  - **Conteggio totale** : 7
+
+
+
+* **User Agent** : leroy / merlin / android / vending / samsung / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 4.07
+
+  - **Conteggio totale** : 183
+
+
+
+* **User Agent** : leroy / merlin / android / vending / sony / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 62.26
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : leroy / merlin / android / vending / umidigi / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 88.19
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : leroy / merlin / android / vending / wiko / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 88.19
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : leroy / merlin / android / vending / xiaomi / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 7.17
+
+  - **Conteggio totale** : 60
+
+
+
+* **User Agent** : leroy / merlin / android / vending / xiaomi / note / lite / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 28.24
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : leroy / merlin / android / vending / xiaomi / poco / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 62.69
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : leroy / merlin / android / vending / xiaomi / redmi / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 12.34
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : leroy / merlin / android / vending / xiaomi / redmi / note / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 16.16
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : leroy / merlin / android / vending / xiaomi / redmi / plus / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 37.95
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : leroy / merlin / coloros / backuprestore / oppo / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 125.63
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : leroy / merlin / google / android / packageinstaller / xiaomi / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 63.00
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : leroy / merlin / standaloneinstall / samsung / android / custom / lmuser / appandroidlmit
+
+  - **Media Distanza** : 62.44
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : mozilla / compatible / blexbot / http / webmeup / crawler
+
+  - **Media Distanza** : 68.86
+
+  - **Conteggio totale** : 5
+
+
+
+* **User Agent** : mozilla / compatible / censysinspect / https / about / censys
+
+  - **Media Distanza** : 153.18
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : sogou / spider / http / sogou / docs / help / webmasters
+
+  - **Media Distanza** : 157.31
+
+  - **Conteggio totale** : 1
+
+</details>
+
+
+### Cluster 11
+Cluster 11 represents sessions from the Amazon health check service and we can label this traffic as **Programmatic Traffic**
+
+<details> 
+
+<summary>  Expand details : </summary>
+* **User Agent** : amazon / route / health / check / service
+
+  - **Media Distanza** : 1.80
+
+  - **Conteggio totale** : 1280
+</details>
 
  
 #to do
