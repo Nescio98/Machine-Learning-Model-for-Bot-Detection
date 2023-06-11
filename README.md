@@ -21,7 +21,7 @@ The project’s goal is to make a machine learning model for bot and application
 4. [Features Analysis](#features-analysis)
 5. [Machine Learning Model](#machine-learning-model)
 6. [Results](#results)
-7. [To do]()
+7. [References](#references)
 
 
 ## The Dataset
@@ -1817,5 +1817,14 @@ Cluster 11 represents sessions from the Amazon health check service and we can l
 </details>
 
  
-#to do
+## References
+* https://www.sciencedirect.com/science/article/pii/S0950705121003373
+
+* https://www.sciencedirect.com/science/article/pii/S1084804520300515
+
+* https://www.frontiersin.org/articles/10.3389/fphy.2020.00125/full
+
+* https://kth.diva-portal.org/smash/get/diva2:1705061/FULLTEXT01.pdf
+
+* https://www.sciencedirect.com/science/article/pii/S1877050920320871
 
