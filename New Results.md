@@ -10268,3 +10268,4683 @@
 
 </details>
 
+## Cluster 2:
+
+**Programmatic traffic**:  1 bots, 0 humans
+
+<details>
+
+<summary>  Expand details : </summary>
+
+* **User Agent** : Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com True
+
+  - **Metadata** : 2023-05-02 12:17:18+00:00/198.235.24.146/ebaa916b-6d4c-45a3-aa9e-56fdcaac1574
+
+  - **Media Distanza** : 0.00
+
+  - **Conteggio totale** : 5
+
+
+
+</details>
+
+## Cluster 3:
+
+**Human traffic**:  5 bots, 181 humans
+
+<details>
+
+<summary>  Expand details : </summary>
+
+* **User Agent** : Googlebot-Image/1.0 True
+
+  - **Metadata** : 2023-05-02 11:58:07+00:00/66.249.64.120/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 33.67
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla / 5.0(Windows NT 10.0; &) Gecko / 20100101 Firefox / 62.0 False
+
+  - **Metadata** : 2023-05-02 10:39:14+00:00/81.208.89.58/26305238-f759-4c0d-a50a-92d675b2cfdc
+
+  - **Media Distanza** : 6.97
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Android 10; Mobile; rv:109.0) Gecko/109.0 Firefox/109.0 False
+
+  - **Metadata** : 2023-05-02 10:02:10+00:00/151.44.50.84/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 7.36
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Android 11; Mobile; rv:109.0) Gecko/112.0 Firefox/112.0 False
+
+  - **Metadata** : 2023-05-02 11:57:04+00:00/93.33.4.200/71833729-ebae-4a24-aa7f-44edf8482820
+
+  - **Media Distanza** : 7.71
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Android 12; Mobile; rv:109.0) Gecko/112.0 Firefox/112.0 False
+
+  - **Metadata** : 2023-05-02 11:15:53+00:00/151.45.178.240/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 7.54
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Android 13; Mobile; rv:109.0) Gecko/112.0 Firefox/112.0 False
+
+  - **Metadata** : 2023-05-02 12:15:25+00:00/151.52.240.153/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 7.83
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:59:49+00:00/95.131.42.244/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 7.52
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:21:12+00:00/2.199.227.167/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 4.08
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:49:06+00:00/93.41.115.58/e1e385a1-c08d-4f75-a407-f9ae2ef1c795
+
+  - **Media Distanza** : 7.19
+
+  - **Conteggio totale** : 20
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:15:58+00:00/151.38.130.82/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 5.41
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; MAR-LX1A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:01:12+00:00/151.38.115.216/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 9.62
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; POT-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:34:54+00:00/5.90.42.82/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 6.06
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; SM-A207F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:41:03+00:00/2.198.120.244/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 11.28
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; SM-A207F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:00:20+00:00/151.18.163.78/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 6.21
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:44:27+00:00/5.90.142.128/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 6.13
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; SM-A750FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:15:33+00:00/5.89.104.99/99d7b12b-bb30-42fd-b065-9d2fb9583ec2
+
+  - **Media Distanza** : 8.88
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; STK-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:27:10+00:00/151.43.90.43/99d7b12b-bb30-42fd-b065-9d2fb9583ec2
+
+  - **Media Distanza** : 9.35
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 11; CPH2021) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:26:13+00:00/93.42.26.224/99d7b12b-bb30-42fd-b065-9d2fb9583ec2
+
+  - **Media Distanza** : 8.88
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G977B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/20.0 Chrome/106.0.5249.126 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:06:52+00:00/146.241.216.26/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 55.33
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 11; SM-A307FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:27:09+00:00/151.34.50.70/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 6.76
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 11; SM-A405FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:55:13+00:00/37.161.150.89/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.63
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 11; SM-G988B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:57:42+00:00/151.33.129.7/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 6.15
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; 2201117SY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:31:53+00:00/151.82.91.86/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 15.39
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; 22081283G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:06:33+00:00/93.34.88.135/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 4.16
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; CPH2273) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:53:38+00:00/93.34.149.95/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 7.37
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; CPH2339) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:27:37+00:00/37.161.255.60/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 12.62
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; IV2201) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:13:37+00:00/81.56.142.59/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 7.09
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; M2003J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:05:01+00:00/37.103.229.222/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.49
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; M2007J20CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:29:04+00:00/93.33.115.171/ebaa916b-6d4c-45a3-aa9e-56fdcaac1574
+
+  - **Media Distanza** : 7.76
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; M2007J22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:42:39+00:00/2.34.27.42/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 5.32
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; SM-A125F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:28:31+00:00/178.249.205.76/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 6.16
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; SM-T505) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:08:41+00:00/176.201.209.120/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 4.54
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; 2107113SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:01:02+00:00/2.198.125.32/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 6.10
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; CPH2207) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:59:33+00:00/146.241.37.136/99d7b12b-bb30-42fd-b065-9d2fb9583ec2
+
+  - **Media Distanza** : 13.25
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; CPH2211) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:37:01+00:00/151.82.32.168/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.57
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; CPH2219) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:00:01+00:00/37.163.142.86/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.81
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; CPH2247) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:06:59+00:00/82.58.173.28/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 12.11
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SM-A135F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:00:39+00:00/130.25.214.104/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 12.57
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:33:40+00:00/93.36.112.37/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 10.31
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:07:09+00:00/151.33.85.4/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.95
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SM-A226B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:14:56+00:00/151.18.162.60/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.47
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SM-A536B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:26:29+00:00/2.199.59.226/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 11.74
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SM-A715F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:17:28+00:00/151.44.1.65/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.95
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:10:08+00:00/180.150.112.238/ed60f2c7-9309-4a71-86c2-bdd9e189a100
+
+  - **Media Distanza** : 6.84
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SM-G990B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:19:03+00:00/109.53.12.178/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 10.71
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:50:51+00:00/37.103.197.161/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.12
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SM-P615) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:19:01+00:00/93.47.52.11/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 3.95
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SM-T733) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:03:56+00:00/93.44.196.23/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 3.89
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; V2109) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:08:45+00:00/93.33.36.189/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 6.05
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 7.1.2; LM-X410.F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:05:38+00:00/37.161.236.254/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 11.08
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 8.0.0; WAS-LX1A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.66 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:03:27+00:00/151.60.223.5/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 11.16
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 8.1.0; SM-T580) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:31:15+00:00/95.236.165.245/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 3.99
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 8.1.0; SM-T585) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:33:16+00:00/93.71.156.38/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 3.95
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 9; ANE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:38:30+00:00/93.39.139.109/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.89
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 9; RVL-AL09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:07:24+00:00/37.160.24.198/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 17.78
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 9; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:22:20+00:00/93.39.137.160/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.19
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:36:21+00:00/146.70.133.198/972149f6-4a88-4681-8b97-982c21d5544e
+
+  - **Media Distanza** : 3.54
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:08:46+00:00/95.248.5.207/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 1.90
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:04:23+00:00/13.80.183.173/ebaa916b-6d4c-45a3-aa9e-56fdcaac1574
+
+  - **Media Distanza** : 5.51
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:17:04+00:00/18.210.132.217/cca03f9e-1668-4d5c-aa00-adae04504fff
+
+  - **Media Distanza** : 5.43
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; LCTE; rv:11.0) like Gecko False
+
+  - **Metadata** : 2023-05-02 12:11:30+00:00/115.60.209.173/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 100.23
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko False
+
+  - **Metadata** : 2023-05-02 12:06:33+00:00/197.46.52.35/bcb8d22d-99f9-4a99-a453-0bb045535ecc
+
+  - **Media Distanza** : 41.13
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0 False
+
+  - **Metadata** : 2023-05-02 11:54:37+00:00/74.234.146.239/ee52971f-fb8d-4534-94cb-61232147fd12
+
+  - **Media Distanza** : 6.93
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586 False
+
+  - **Metadata** : 2023-05-02 12:19:14+00:00/20.75.82.131/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 35.36
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:38:44+00:00/185.27.99.138/ed60f2c7-9309-4a71-86c2-bdd9e189a100
+
+  - **Media Distanza** : 3.01
+
+  - **Conteggio totale** : 7
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:09:18+00:00/188.10.246.227/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 1.87
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:11:30+00:00/40.94.94.91/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 12.40
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:35:34+00:00/40.94.104.22/99d7b12b-bb30-42fd-b065-9d2fb9583ec2
+
+  - **Media Distanza** : 3.49
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:30:27+00:00/185.51.12.104/ad2ab47b-7dd8-4f2b-a98a-c606147d9d03
+
+  - **Media Distanza** : 2.31
+
+  - **Conteggio totale** : 6
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:03:38+00:00/192.186.159.201/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 4.24
+
+  - **Conteggio totale** : 70
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:37:21+00:00/40.94.105.97/99d7b12b-bb30-42fd-b065-9d2fb9583ec2
+
+  - **Media Distanza** : 3.49
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:04:45+00:00/195.103.108.138/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.10
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:02:24+00:00/89.119.251.40/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 3.67
+
+  - **Conteggio totale** : 6
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:11:31+00:00/185.125.224.47/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 2.07
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42 False
+
+  - **Metadata** : 2023-05-02 10:17:26+00:00/93.147.161.250/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 1.98
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:01:56+00:00/62.241.28.18/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 4.81
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42 False
+
+  - **Metadata** : 2023-05-02 11:46:08+00:00/195.7.18.82/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 2.26
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:35:34+00:00/79.37.195.220/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 1.69
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46 False
+
+  - **Metadata** : 2023-05-02 11:42:35+00:00/160.220.116.14/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 4.13
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54 False
+
+  - **Metadata** : 2023-05-02 10:56:26+00:00/217.175.54.12/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 2.00
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0 False
+
+  - **Metadata** : 2023-05-02 11:44:38+00:00/65.49.20.68/26305238-f759-4c0d-a50a-92d675b2cfdc
+
+  - **Media Distanza** : 3.09
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:46:37+00:00/93.61.134.167/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 3.21
+
+  - **Conteggio totale** : 52
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78 False
+
+  - **Metadata** : 2023-05-02 11:02:42+00:00/165.225.202.80/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 5.01
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:24:52+00:00/151.42.113.212/595f727a-33ec-44b6-8c04-87c32d7c1b05
+
+  - **Media Distanza** : 2.36
+
+  - **Conteggio totale** : 7
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.49 False
+
+  - **Metadata** : 2023-05-02 10:32:16+00:00/151.30.242.12/99d7b12b-bb30-42fd-b065-9d2fb9583ec2
+
+  - **Media Distanza** : 9.50
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63 False
+
+  - **Metadata** : 2023-05-02 11:12:02+00:00/217.169.117.35/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 2.66
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:04:53+00:00/31.190.148.13/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 3.55
+
+  - **Conteggio totale** : 35
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.51 False
+
+  - **Metadata** : 2023-05-02 11:29:40+00:00/169.252.4.21/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 3.99
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62 False
+
+  - **Metadata** : 2023-05-02 11:18:28+00:00/93.39.137.116/ad2ab47b-7dd8-4f2b-a98a-c606147d9d03
+
+  - **Media Distanza** : 3.52
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0 False
+
+  - **Metadata** : 2023-05-02 11:22:38+00:00/130.183.51.6/99d7b12b-bb30-42fd-b065-9d2fb9583ec2
+
+  - **Media Distanza** : 5.27
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:04:52+00:00/163.116.172.115/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 3.43
+
+  - **Conteggio totale** : 995
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 AtContent/91.5.7374.75 False
+
+  - **Metadata** : 2023-05-02 10:19:42+00:00/103.231.89.166/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 91.42
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.0.0 False
+
+  - **Metadata** : 2023-05-02 10:56:40+00:00/151.69.172.221/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 2.66
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34 False
+
+  - **Metadata** : 2023-05-02 11:49:51+00:00/46.23.193.63/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 3.97
+
+  - **Conteggio totale** : 6
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39 False
+
+  - **Metadata** : 2023-05-02 11:55:21+00:00/213.156.48.34/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 3.86
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48 False
+
+  - **Metadata** : 2023-05-02 12:23:18+00:00/79.9.67.35/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 2.05
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58 False
+
+  - **Metadata** : 2023-05-02 11:02:01+00:00/165.225.203.57/99d7b12b-bb30-42fd-b065-9d2fb9583ec2
+
+  - **Media Distanza** : 3.53
+
+  - **Conteggio totale** : 33
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64 False
+
+  - **Metadata** : 2023-05-02 12:24:58+00:00/93.32.76.180/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 3.50
+
+  - **Conteggio totale** : 172
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68 False
+
+  - **Metadata** : 2023-05-02 12:23:43+00:00/93.37.156.237/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 4.55
+
+  - **Conteggio totale** : 9
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0 False
+
+  - **Metadata** : 2023-05-02 11:19:10+00:00/151.32.29.138/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 2.52
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0 (Edition Campaign 76) False
+
+  - **Metadata** : 2023-05-02 10:45:14+00:00/151.57.197.22/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 129.25
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Trailer/94.3.8402.3 False
+
+  - **Metadata** : 2023-05-02 10:13:13+00:00/185.122.224.254/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 91.40
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Unique/92.7.9536.37 False
+
+  - **Metadata** : 2023-05-02 11:33:39+00:00/195.206.13.98/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 91.41
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.138 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:13:13+00:00/93.66.64.8/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 1.72
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:00:03+00:00/109.118.203.66/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 3.12
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.9 False
+
+  - **Metadata** : 2023-05-02 10:34:24+00:00/154.12.195.21/cca03f9e-1668-4d5c-aa00-adae04504fff
+
+  - **Media Distanza** : 3.19
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299 False
+
+  - **Metadata** : 2023-05-02 12:28:24+00:00/20.237.33.87/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 34.90
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17720 False
+
+  - **Metadata** : 2023-05-02 11:39:32+00:00/20.75.82.131/972149f6-4a88-4681-8b97-982c21d5544e
+
+  - **Media Distanza** : 35.36
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362 False
+
+  - **Metadata** : 2023-05-02 10:23:07+00:00/93.147.185.222/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 35.58
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:28:01+00:00/199.249.230.168/71833729-ebae-4a24-aa7f-44edf8482820
+
+  - **Media Distanza** : 3.85
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:43:03+00:00/89.119.251.40/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 2.02
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51 False
+
+  - **Metadata** : 2023-05-02 10:04:03+00:00/151.37.206.191/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 1.81
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:09:59+00:00/94.102.61.10/26305238-f759-4c0d-a50a-92d675b2cfdc
+
+  - **Media Distanza** : 4.29
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:19:23+00:00/141.94.175.120/ed60f2c7-9309-4a71-86c2-bdd9e189a100
+
+  - **Media Distanza** : 5.21
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 Edg/89.0.774.48 False
+
+  - **Metadata** : 2023-05-02 10:20:47+00:00/52.108.80.15/247c0d42-6d2e-44c5-b174-e315bc31f142
+
+  - **Media Distanza** : 4.69
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:22:03+00:00/52.60.34.56/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 4.92
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54 False
+
+  - **Metadata** : 2023-05-02 10:04:51+00:00/178.254.29.124/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 3.03
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:25:16+00:00/43.130.42.161/972149f6-4a88-4681-8b97-982c21d5544e
+
+  - **Media Distanza** : 17.37
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:00:21+00:00/193.227.215.155/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 5.08
+
+  - **Conteggio totale** : 5
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:10:36+00:00/62.221.168.92/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 2.36
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:11:07+00:00/195.62.160.60/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 1.96
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50 False
+
+  - **Metadata** : 2023-05-02 12:18:33+00:00/37.100.41.98/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 1.77
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:11:47+00:00/155.46.24.1/ebaa916b-6d4c-45a3-aa9e-56fdcaac1574
+
+  - **Media Distanza** : 9.08
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:24:07+00:00/93.56.65.103/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 1.95
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:18:51+00:00/2.45.152.22/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 2.01
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:00:51+00:00/160.220.116.14/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.30
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/3eZNDnO; 3532b9df27) Chrome/84.0.4147.105 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:36:58+00:00/35.212.211.76/-
+
+  - **Media Distanza** : 53.02
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/3eZNDnO; 8751ea52ba) Chrome/84.0.4147.105 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:02:54+00:00/35.211.224.135/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 53.06
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0 False
+
+  - **Metadata** : 2023-05-02 12:04:08+00:00/62.11.216.94/09fc74bd-db16-4ea2-b6ea-4980cacec8f7
+
+  - **Media Distanza** : 9.05
+
+  - **Conteggio totale** : 6
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0 False
+
+  - **Metadata** : 2023-05-02 12:19:20+00:00/163.172.255.57/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 7.39
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0 False
+
+  - **Metadata** : 2023-05-02 10:51:57+00:00/91.83.165.122/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 7.59
+
+  - **Conteggio totale** : 6
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0 False
+
+  - **Metadata** : 2023-05-02 11:01:10+00:00/2.199.100.239/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 7.07
+
+  - **Conteggio totale** : 157
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0 False
+
+  - **Metadata** : 2023-05-02 10:15:04+00:00/89.97.176.162/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 6.56
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0 False
+
+  - **Metadata** : 2023-05-02 10:54:12+00:00/176.126.74.53/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 6.95
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0 False
+
+  - **Metadata** : 2023-05-02 11:55:41+00:00/152.89.196.77/ebaa916b-6d4c-45a3-aa9e-56fdcaac1574
+
+  - **Media Distanza** : 8.52
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 False
+
+  - **Metadata** : 2023-05-02 12:17:01+00:00/213.82.67.29/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 6.62
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy) True
+
+  - **Metadata** : 2023-05-02 11:04:57+00:00/66.249.81.27/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 34.17
+
+  - **Conteggio totale** : 15
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:23:08+00:00/62.241.24.18/8cc357fc-eb3c-4d69-9441-096ef3f81198
+
+  - **Media Distanza** : 2.98
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:09:40+00:00/134.249.61.142/972149f6-4a88-4681-8b97-982c21d5544e
+
+  - **Media Distanza** : 4.32
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:15:35+00:00/170.106.36.112/cca03f9e-1668-4d5c-aa00-adae04504fff
+
+  - **Media Distanza** : 4.23
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5 skype-url-preview@microsoft.com True
+
+  - **Metadata** : 2023-05-02 11:04:56+00:00/52.114.77.236/bcbafc97-50a6-4be8-ab94-9ff6c14efe4f
+
+  - **Media Distanza** : 119.22
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:38:52+00:00/46.0.11.135/972149f6-4a88-4681-8b97-982c21d5544e
+
+  - **Media Distanza** : 3.57
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:45:05+00:00/151.40.67.117/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 1.88
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:04:06+00:00/34.250.24.75/6111450a-6621-4c98-87f5-e2a88c1a50dd
+
+  - **Media Distanza** : 2.99
+
+  - **Conteggio totale** : 27
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:19:31+00:00/205.169.39.253/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 7.32
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:07:24+00:00/94.100.36.6/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 2.07
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:58:17+00:00/138.94.3.114/71833729-ebae-4a24-aa7f-44edf8482820
+
+  - **Media Distanza** : 8.06
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0 False
+
+  - **Metadata** : 2023-05-02 10:30:11+00:00/77.241.8.13/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 6.54
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0 False
+
+  - **Metadata** : 2023-05-02 12:10:23+00:00/188.10.153.161/99d7b12b-bb30-42fd-b065-9d2fb9583ec2
+
+  - **Media Distanza** : 7.03
+
+  - **Conteggio totale** : 6
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0 LikeWise/91.6.4075.76 False
+
+  - **Metadata** : 2023-05-02 12:02:21+00:00/79.32.177.64/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 64.93
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:51:18+00:00/193.176.86.51/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 3.65
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5414.120 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:24:54+00:00/93.32.76.103/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 2.67
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:14:46+00:00/141.94.15.241/ee52971f-fb8d-4534-94cb-61232147fd12
+
+  - **Media Distanza** : 3.98
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0 False
+
+  - **Metadata** : 2023-05-02 10:04:45+00:00/151.60.156.40/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 6.69
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:23:08+00:00/217.79.247.202/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 4.00
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:07:12+00:00/194.15.113.22/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 3.91
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:58:04+00:00/31.191.92.211/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 4.75
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0 False
+
+  - **Metadata** : 2023-05-02 12:12:16+00:00/101.56.39.139/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 1.92
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0 False
+
+  - **Metadata** : 2023-05-02 10:27:30+00:00/104.168.51.113/cca03f9e-1668-4d5c-aa00-adae04504fff
+
+  - **Media Distanza** : 6.95
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0 False
+
+  - **Metadata** : 2023-05-02 11:46:37+00:00/188.15.233.36/595f727a-33ec-44b6-8c04-87c32d7c1b05
+
+  - **Media Distanza** : 7.38
+
+  - **Conteggio totale** : 5
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0 False
+
+  - **Metadata** : 2023-05-02 10:32:19+00:00/107.173.44.37/cca03f9e-1668-4d5c-aa00-adae04504fff
+
+  - **Media Distanza** : 6.80
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.724.100 Safari/534.30 False
+
+  - **Metadata** : 2023-05-02 11:18:05+00:00/20.75.82.131/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 8.27
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729) False
+
+  - **Metadata** : 2023-05-02 11:25:56+00:00/194.169.175.14/ed60f2c7-9309-4a71-86c2-bdd9e189a100
+
+  - **Media Distanza** : 7.38
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:19:57+00:00/146.241.12.107/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 37.82
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 OPR/89.0.4447.51 False
+
+  - **Metadata** : 2023-05-02 11:37:22+00:00/185.231.205.31/ebaa916b-6d4c-45a3-aa9e-56fdcaac1574
+
+  - **Media Distanza** : 4.04
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.105 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:06:42+00:00/197.158.82.222/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 3.53
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:52:16+00:00/2.233.2.58/e1e385a1-c08d-4f75-a407-f9ae2ef1c795
+
+  - **Media Distanza** : 6.45
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5478.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:35:40+00:00/199.34.83.112/cca03f9e-1668-4d5c-aa00-adae04504fff
+
+  - **Media Distanza** : 5.77
+
+  - **Conteggio totale** : 5
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:54:51+00:00/87.6.118.241/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 4.56
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/4E423F False
+
+  - **Metadata** : 2023-05-02 10:43:59+00:00/20.75.82.131/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 8.33
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:12:30+00:00/122.161.91.49/8cc357fc-eb3c-4d69-9441-096ef3f81198
+
+  - **Media Distanza** : 4.29
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 Google-PageRenderer Google (+https://developers.google.com/+/web/snippet/) True
+
+  - **Metadata** : 2023-05-02 12:15:22+00:00/66.249.83.10/71833729-ebae-4a24-aa7f-44edf8482820
+
+  - **Media Distanza** : 60.36
+
+  - **Conteggio totale** : 7
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:04:15+00:00/64.124.8.153/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.80
+
+  - **Conteggio totale** : 15
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:21:23+00:00/109.237.98.53/ee52971f-fb8d-4534-94cb-61232147fd12
+
+  - **Media Distanza** : 4.95
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:23:55+00:00/54.186.122.185/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.76
+
+  - **Conteggio totale** : 9
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/20.0 Chrome/106.0.5249.126 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:53:39+00:00/37.159.53.163/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 6.77
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 False
+
+  - **Metadata** : 2023-05-02 11:42:54+00:00/64.62.197.167/26305238-f759-4c0d-a50a-92d675b2cfdc
+
+  - **Media Distanza** : 8.48
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0 False
+
+  - **Metadata** : 2023-05-02 10:52:10+00:00/93.41.116.111/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 7.30
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; U; Linux i686; rv:1.8.0.1) Gecko/20060124 Firefox/1.5.0.1 False
+
+  - **Metadata** : 2023-05-02 10:20:37+00:00/193.37.69.130/cca03f9e-1668-4d5c-aa00-adae04504fff
+
+  - **Media Distanza** : 7.55
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0 False
+
+  - **Metadata** : 2023-05-02 10:52:15+00:00/82.49.53.174/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 37.93
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0 False
+
+  - **Metadata** : 2023-05-02 10:26:42+00:00/37.161.122.138/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 38.14
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0 False
+
+  - **Metadata** : 2023-05-02 10:12:40+00:00/54.176.0.166/ebaa916b-6d4c-45a3-aa9e-56fdcaac1574
+
+  - **Media Distanza** : 39.44
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; Qwantify/1.0; +https://www.qwant.com/) True
+
+  - **Metadata** : 2023-05-02 10:01:35+00:00/194.187.171.156/e1e385a1-c08d-4f75-a407-f9ae2ef1c795
+
+  - **Media Distanza** : 129.88
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (iPhone; CPU iPhone OS 16_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/261.0.525226904 Mobile/15E148 Safari/604.1 False
+
+  - **Metadata** : 2023-05-02 10:29:56+00:00/37.163.139.176/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 12.58
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (iPhone; CPU iPhone OS 16_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/261.0.525226904 Mobile/15E148 Safari/604.1 False
+
+  - **Metadata** : 2023-05-02 10:34:46+00:00/212.43.99.223/99d7b12b-bb30-42fd-b065-9d2fb9583ec2
+
+  - **Media Distanza** : 8.97
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1 False
+
+  - **Metadata** : 2023-05-02 10:34:45+00:00/151.0.201.174/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 34.15
+
+  - **Conteggio totale** : 1
+
+
+
+</details>
+
+## Cluster 4:
+
+**Programmatic traffic**:  12 bots, 0 humans
+
+<details>
+
+<summary>  Expand details : </summary>
+
+* **User Agent** : Microsoft Office/15.0 (Windows NT 10.0; Microsoft Outlook 15.0.5545; Pro) True
+
+  - **Metadata** : 2023-05-02 11:57:14+00:00/151.38.148.163/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 2.05
+
+  - **Conteggio totale** : 19
+
+
+
+* **User Agent** : Microsoft Office/15.0 (Windows NT 6.2; Microsoft Outlook 15.0.4454; Pro) True
+
+  - **Metadata** : 2023-05-02 10:14:20+00:00/5.89.192.0/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 1.84
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Microsoft Office/16.0 (Windows NT 10.0; MAPI 16.0.16327; Pro) True
+
+  - **Metadata** : 2023-05-02 10:09:43+00:00/79.55.131.20/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 75.92
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Microsoft Office/16.0 (Windows NT 10.0; Microsoft Excel 16.0.14326; Pro) True
+
+  - **Metadata** : 2023-05-02 10:38:35+00:00/212.31.245.194/cca03f9e-1668-4d5c-aa00-adae04504fff
+
+  - **Media Distanza** : 40.51
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Microsoft Office/16.0 (Windows NT 10.0; Microsoft Excel 16.0.16327; Pro) True
+
+  - **Metadata** : 2023-05-02 12:00:02+00:00/101.56.62.33/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 40.56
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.15427; Pro) True
+
+  - **Metadata** : 2023-05-02 10:02:57+00:00/195.50.135.211/ee52971f-fb8d-4534-94cb-61232147fd12
+
+  - **Media Distanza** : 2.41
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.15601; Pro) True
+
+  - **Metadata** : 2023-05-02 10:03:13+00:00/130.41.117.201/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 2.57
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.16130; Pro) True
+
+  - **Metadata** : 2023-05-02 10:47:08+00:00/2.198.77.4/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 1.74
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.16227; Pro) True
+
+  - **Metadata** : 2023-05-02 11:43:00+00:00/79.20.213.145/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 2.24
+
+  - **Conteggio totale** : 71
+
+
+
+* **User Agent** : Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.16327; Pro) True
+
+  - **Metadata** : 2023-05-02 11:02:20+00:00/89.233.185.239/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 2.04
+
+  - **Conteggio totale** : 41
+
+
+
+* **User Agent** : Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.5254; Pro) True
+
+  - **Metadata** : 2023-05-02 10:04:46+00:00/151.32.14.74/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 1.74
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Microsoft Office/16.0 (Windows NT 10.0; Microsoft PowerPoint 16.0.16227; Pro) True
+
+  - **Metadata** : 2023-05-02 12:27:04+00:00/93.34.233.88/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 91.14
+
+  - **Conteggio totale** : 1
+
+
+
+</details>
+
+## Cluster 5:
+
+**Programmatic traffic**:  2 bots, 0 humans
+
+<details>
+
+<summary>  Expand details : </summary>
+
+* **User Agent** : Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/100.0.4896.127 Safari/537.36 True
+
+  - **Metadata** : 2023-05-02 11:57:38+00:00/40.77.202.139/972149f6-4a88-4681-8b97-982c21d5544e
+
+  - **Media Distanza** : 8.68
+
+  - **Conteggio totale** : 24
+
+
+
+* **User Agent** : Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.5060.134 Safari/537.36 True
+
+  - **Metadata** : 2023-05-02 10:33:03+00:00/52.167.144.172/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.73
+
+  - **Conteggio totale** : 48
+
+
+
+</details>
+
+## Cluster 6:
+
+**Programmatic traffic**:  6 bots, 0 humans
+
+<details>
+
+<summary>  Expand details : </summary>
+
+* **User Agent** : AdsBot-Google (+http://www.google.com/adsbot.html) True
+
+  - **Metadata** : 2023-05-02 12:14:37+00:00/74.125.151.83/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 24.52
+
+  - **Conteggio totale** : 14
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.142 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) True
+
+  - **Metadata** : 2023-05-02 10:34:35+00:00/66.249.76.241/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 11.16
+
+  - **Conteggio totale** : 45
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) True
+
+  - **Metadata** : 2023-05-02 10:41:07+00:00/66.249.76.247/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 29.04
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) True
+
+  - **Metadata** : 2023-05-02 10:04:32+00:00/66.249.76.117/ee52971f-fb8d-4534-94cb-61232147fd12
+
+  - **Media Distanza** : 7.90
+
+  - **Conteggio totale** : 36
+
+
+
+* **User Agent** : Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E148 Safari/604.1 (compatible; AdsBot-Google-Mobile; +http://www.google.com/mobile/adsbot.html) True
+
+  - **Metadata** : 2023-05-02 11:44:59+00:00/74.125.151.1/e1e385a1-c08d-4f75-a407-f9ae2ef1c795
+
+  - **Media Distanza** : 24.01
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/112.0.5615.142 Safari/537.36 True
+
+  - **Metadata** : 2023-05-02 12:26:41+00:00/66.249.70.87/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 7.06
+
+  - **Conteggio totale** : 37
+
+
+
+</details>
+
+## Cluster 7:
+
+**Human traffic**:  2 bots, 57 humans
+
+<details>
+
+<summary>  Expand details : </summary>
+
+* **User Agent** : Microsoft Office Excel/16.72.409 (Mac OS/11.7.6; Desktop; it-IT; AppStore; Apple/MacBookPro11,1) True
+
+  - **Metadata** : 2023-05-02 12:07:05+00:00/2.115.173.242/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 170.48
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Android 10; Mobile; rv:109.0) Gecko/111.0 Firefox/111.0 False
+
+  - **Metadata** : 2023-05-02 11:45:42+00:00/151.43.91.196/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 7.80
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Android 12; Mobile; rv:109.0) Gecko/112.0 Firefox/112.0 False
+
+  - **Metadata** : 2023-05-02 11:06:00+00:00/151.45.178.240/4f097634-e8a7-4bcc-8074-a4cb0575a0d0
+
+  - **Media Distanza** : 7.91
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; CPH1941) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:18:23+00:00/37.163.150.26/4f097634-e8a7-4bcc-8074-a4cb0575a0d0
+
+  - **Media Distanza** : 4.18
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; ELE-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:00:22+00:00/46.255.240.202/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 4.56
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:49:31+00:00/37.163.222.119/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 4.41
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:53:04+00:00/94.35.83.183/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 4.09
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:45:09+00:00/93.44.27.209/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 4.60
+
+  - **Conteggio totale** : 37
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 10; RMX2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.99 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:57:37+00:00/5.91.20.126/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 4.19
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 11; 2107113SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:19:42+00:00/2.199.120.26/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 4.07
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 11; A90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:41:07+00:00/151.43.84.194/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 4.11
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 11; M2007J22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:04:55+00:00/93.38.66.209/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 6.07
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 11; Mi A3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:09:55+00:00/151.43.255.255/4f097634-e8a7-4bcc-8074-a4cb0575a0d0
+
+  - **Media Distanza** : 4.18
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 11; T774H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:11:54+00:00/37.160.2.209/595f727a-33ec-44b6-8c04-87c32d7c1b05
+
+  - **Media Distanza** : 4.39
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; 2201116TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:48:59+00:00/91.80.29.3/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 4.63
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; CPH2211) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:31:50+00:00/37.159.91.30/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 4.23
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; FNE-NX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:19:04+00:00/5.168.94.18/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 4.08
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:26:52+00:00/101.56.80.107/4f097634-e8a7-4bcc-8074-a4cb0575a0d0
+
+  - **Media Distanza** : 4.18
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; SM-A125F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:23:08+00:00/93.33.147.181/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 4.13
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; SM-A217F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:06:18+00:00/79.56.242.1/4f097634-e8a7-4bcc-8074-a4cb0575a0d0
+
+  - **Media Distanza** : 4.13
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 12; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:21:31+00:00/5.168.204.120/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 4.28
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.135 Mobile DuckDuckGo/5 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:31:02+00:00/37.163.227.57/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 41.13
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; 21081111RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:48:42+00:00/2.198.199.248/4f097634-e8a7-4bcc-8074-a4cb0575a0d0
+
+  - **Media Distanza** : 4.04
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; 21091116UG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:15:00+00:00/151.42.250.224/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 6.04
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; CPH2145) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36 ABB/3.3.0 False
+
+  - **Metadata** : 2023-05-02 10:25:54+00:00/95.237.59.222/4f097634-e8a7-4bcc-8074-a4cb0575a0d0
+
+  - **Media Distanza** : 4.26
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; CPH2145) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:14:10+00:00/37.159.74.23/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 4.27
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; CPH2195) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:13:29+00:00/5.91.170.74/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 4.42
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-A137F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/20.0 Chrome/106.0.5249.126 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:42:10+00:00/2.198.228.158/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 9.04
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SM-A127F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:18:53+00:00/193.207.129.168/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 4.04
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:14:15+00:00/37.162.10.113/4f097634-e8a7-4bcc-8074-a4cb0575a0d0
+
+  - **Media Distanza** : 4.04
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SM-G780G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:59:54+00:00/82.55.124.38/4f097634-e8a7-4bcc-8074-a4cb0575a0d0
+
+  - **Media Distanza** : 6.81
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:15:32+00:00/176.201.126.42/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 4.07
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 13; V2109) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:07:49+00:00/95.74.68.189/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 4.08
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 8.0.0; PRA-LX1 Build/HUAWEIPRA-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:15:41+00:00/5.179.179.5/595f727a-33ec-44b6-8c04-87c32d7c1b05
+
+  - **Media Distanza** : 64.91
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 9; SM-A530F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 12:04:10+00:00/37.163.96.223/595f727a-33ec-44b6-8c04-87c32d7c1b05
+
+  - **Media Distanza** : 4.14
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:53:35+00:00/81.56.122.236/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 8.42
+
+  - **Conteggio totale** : 6
+
+
+
+* **User Agent** : Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:32:39+00:00/111.7.96.161/595f727a-33ec-44b6-8c04-87c32d7c1b05
+
+  - **Media Distanza** : 9.19
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:45:54+00:00/93.61.134.167/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 2.22
+
+  - **Conteggio totale** : 6
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:23:48+00:00/54.174.6.211/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 1.96
+
+  - **Conteggio totale** : 269
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54 False
+
+  - **Metadata** : 2023-05-02 12:27:36+00:00/101.56.209.59/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 2.46
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:25:02+00:00/79.30.242.196/595f727a-33ec-44b6-8c04-87c32d7c1b05
+
+  - **Media Distanza** : 2.89
+
+  - **Conteggio totale** : 100
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58 False
+
+  - **Metadata** : 2023-05-02 11:30:10+00:00/188.10.185.42/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 3.03
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64 False
+
+  - **Metadata** : 2023-05-02 11:34:24+00:00/2.112.81.6/4f097634-e8a7-4bcc-8074-a4cb0575a0d0
+
+  - **Media Distanza** : 2.17
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:54:27+00:00/151.14.59.164/4f097634-e8a7-4bcc-8074-a4cb0575a0d0
+
+  - **Media Distanza** : 3.86
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:32:37+00:00/213.218.53.172/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 2.80
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0 False
+
+  - **Metadata** : 2023-05-02 12:04:18+00:00/62.11.216.94/4f097634-e8a7-4bcc-8074-a4cb0575a0d0
+
+  - **Media Distanza** : 7.29
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0 False
+
+  - **Metadata** : 2023-05-02 11:12:58+00:00/95.240.219.12/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 7.31
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0 False
+
+  - **Metadata** : 2023-05-02 10:15:24+00:00/2.199.244.51/e8714e50-6863-428c-9485-bae242fbbe76
+
+  - **Media Distanza** : 7.40
+
+  - **Conteggio totale** : 7
+
+
+
+* **User Agent** : Mozilla/5.0 (Windows NT 6.1; rv:109.0) Gecko/20100101 Firefox/112.0 False
+
+  - **Metadata** : 2023-05-02 10:33:27+00:00/151.37.162.220/595f727a-33ec-44b6-8c04-87c32d7c1b05
+
+  - **Media Distanza** : 7.26
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 10:13:41+00:00/93.66.96.229/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 37.20
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; CrOS x86_64 14816.131.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:26:34+00:00/5.170.140.181/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 37.21
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/89.0.4389.116 Safari/534.24 XiaoMi/MiuiBrowser/12.22.0.3-gn False
+
+  - **Metadata** : 2023-05-02 10:47:11+00:00/37.163.204.16/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 17.28
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 False
+
+  - **Metadata** : 2023-05-02 11:52:17+00:00/2.233.2.58/595f727a-33ec-44b6-8c04-87c32d7c1b05
+
+  - **Media Distanza** : 3.91
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0 False
+
+  - **Metadata** : 2023-05-02 10:30:39+00:00/188.14.74.169/595f727a-33ec-44b6-8c04-87c32d7c1b05
+
+  - **Media Distanza** : 38.01
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0 False
+
+  - **Metadata** : 2023-05-02 12:02:10+00:00/79.3.90.184/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 37.99
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Mobile/15E148 Safari/604.1 False
+
+  - **Metadata** : 2023-05-02 10:27:57+00:00/93.43.112.86/595f727a-33ec-44b6-8c04-87c32d7c1b05
+
+  - **Media Distanza** : 5.71
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1 False
+
+  - **Metadata** : 2023-05-02 11:57:57+00:00/62.240.135.36/595f727a-33ec-44b6-8c04-87c32d7c1b05
+
+  - **Media Distanza** : 5.54
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1 False
+
+  - **Metadata** : 2023-05-02 10:00:01+00:00/93.33.78.217/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 5.29
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : okhttp/3.12.0 True
+
+  - **Metadata** : 2023-05-02 11:22:26+00:00/37.159.85.226/6111450a-6621-4c98-87f5-e2a88c1a50dd
+
+  - **Media Distanza** : 8.81
+
+  - **Conteggio totale** : 2
+
+
+
+</details>
+
+## Cluster 8:
+
+**Programmatic traffic**:  73 bots, 17 humans
+
+<details>
+
+<summary>  Expand details : </summary>
+
+* **User Agent** : - False
+
+  - **Metadata** : 2023-05-02 12:08:00+00:00/34.29.130.185/69651c8a-1895-436d-8aab-38736df1a7d5
+
+  - **Media Distanza** : 28.04
+
+  - **Conteggio totale** : 11
+
+
+
+* **User Agent** : Apache-HttpClient/4.5.13 (Java/11.0.12) True
+
+  - **Metadata** : 2023-05-02 11:39:29+00:00/34.77.202.94/b85be7ab-fd03-4e2c-9195-789bafd4621c
+
+  - **Media Distanza** : 38.63
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Apache-HttpClient/4.5.2 (Java/1.8.0_312) True
+
+  - **Metadata** : 2023-05-02 11:45:15+00:00/52.49.141.93/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 38.10
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Apache-HttpClient/4.5.3 (Java/1.8.0_212) True
+
+  - **Metadata** : 2023-05-02 10:03:25+00:00/35.157.104.120/8a7e504e-5f59-470f-8c8a-9e5c4abbd253
+
+  - **Media Distanza** : 38.16
+
+  - **Conteggio totale** : 11
+
+
+
+* **User Agent** : BLP_bbot/0.1 True
+
+  - **Metadata** : 2023-05-02 10:17:25+00:00/69.191.211.213/cca03f9e-1668-4d5c-aa00-adae04504fff
+
+  - **Media Distanza** : 91.51
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Chrome Privacy Preserving Prefetch Proxy True
+
+  - **Metadata** : 2023-05-02 12:10:05+00:00/66.249.81.58/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 81.61
+
+  - **Conteggio totale** : 5
+
+
+
+* **User Agent** : Dalvik/2.1.0 (Linux; U; Android 11; 2201116SG Build/RKQ1.211001.001) True
+
+  - **Metadata** : 2023-05-02 12:04:44+00:00/151.43.100.229/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 46.01
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Dalvik/2.1.0 (Linux; U; Android 11; SM-A307FN Build/RP1A.200720.012) True
+
+  - **Metadata** : 2023-05-02 12:18:45+00:00/5.91.244.209/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 46.01
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Dalvik/2.1.0 (Linux; U; Android 11; SM-A528B Build/RP1A.200720.012) True
+
+  - **Metadata** : 2023-05-02 11:27:31+00:00/5.90.44.185/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 46.01
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Dalvik/2.1.0 (Linux; U; Android 5.1; HUAWEI LYO-L01 Build/HUAWEILYO-L01) True
+
+  - **Metadata** : 2023-05-02 10:13:20+00:00/193.207.198.129/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 103.08
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Dart/2.14 (dart:io) True
+
+  - **Metadata** : 2023-05-02 12:06:56+00:00/93.35.188.54/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 19.20
+
+  - **Conteggio totale** : 23
+
+
+
+* **User Agent** : Go-http-client/2.0 True
+
+  - **Metadata** : 2023-05-02 11:07:04+00:00/143.198.142.115/71833729-ebae-4a24-aa7f-44edf8482820
+
+  - **Media Distanza** : 53.16
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Googlebot-Image/1.0 True
+
+  - **Metadata** : 2023-05-02 11:31:26+00:00/66.249.76.248/99d7b12b-bb30-42fd-b065-9d2fb9583ec2
+
+  - **Media Distanza** : 32.76
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Java-http-client/15.0.2 True
+
+  - **Metadata** : 2023-05-02 11:50:13+00:00/35.203.251.64/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 57.70
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Leroy Merlin / 5.1.26.0(512600); com.coloros.backuprestore; (OPPO; CPH2343; SDK 33; Android 13; Custom: LMUser AppAndroidLmIt 5.1.26.0 512600) False
+
+  - **Metadata** : 2023-05-02 12:01:40+00:00/93.67.43.153/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 130.50
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Leroy Merlin/5.1.15 (it.leroymerlin.festadelbricolage; build:5066; iOS 16.4.1) Alamofire/5.1.15 True
+
+  - **Metadata** : 2023-05-02 10:34:31+00:00/5.90.37.229/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 11.33
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Leroy Merlin/5.1.16 (it.leroymerlin.festadelbricolage; build:5068; iOS 16.4.1) Alamofire/5.1.16 True
+
+  - **Metadata** : 2023-05-02 12:12:08+00:00/87.27.229.198/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.33
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Leroy Merlin/5.1.17 (it.leroymerlin.festadelbricolage; build:5073; iOS 15.5.0) Alamofire/5.1.17 True
+
+  - **Metadata** : 2023-05-02 11:57:47+00:00/80.181.184.22/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.39
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Leroy Merlin/5.1.17 (it.leroymerlin.festadelbricolage; build:5073; iOS 16.1.1) Alamofire/5.1.17 AppIosLmIt True
+
+  - **Metadata** : 2023-05-02 11:57:19+00:00/151.82.217.166/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 21.25
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 13.3.1) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 11:40:14+00:00/79.26.37.181/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.34
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 14.7.1) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 11:49:07+00:00/213.45.89.134/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.33
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 15.3.1) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 11:39:07+00:00/93.32.243.23/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.33
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 15.4.1) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 10:11:05+00:00/146.241.206.233/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.33
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 15.6.0) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 11:20:23+00:00/82.48.232.23/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.33
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 15.6.1) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 12:08:25+00:00/93.35.65.54/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.33
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 15.7.0) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 11:05:27+00:00/37.162.219.211/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.33
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 15.7.3) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 12:03:23+00:00/79.24.212.80/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.33
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 15.7.5) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 10:03:41+00:00/176.201.159.123/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.49
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 16.0.0) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 11:17:57+00:00/151.37.181.90/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.33
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 16.0.2) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 12:04:59+00:00/5.90.182.174/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.85
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 16.1.0) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 12:02:02+00:00/176.200.22.214/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.33
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 16.1.1) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 11:37:54+00:00/37.163.115.232/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.33
+
+  - **Conteggio totale** : 12
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 16.1.2) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 11:46:27+00:00/151.57.143.194/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.33
+
+  - **Conteggio totale** : 7
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 16.2.0) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 12:04:51+00:00/81.56.91.128/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.45
+
+  - **Conteggio totale** : 10
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 16.3.0) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 10:41:38+00:00/78.134.87.10/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.33
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 16.3.1) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 11:49:32+00:00/93.33.121.27/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.34
+
+  - **Conteggio totale** : 43
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 16.4.1) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 12:17:37+00:00/37.160.253.126/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.34
+
+  - **Conteggio totale** : 96
+
+
+
+* **User Agent** : Leroy Merlin/5.1.20 (it.leroymerlin.festadelbricolage; build:5086; iOS 16.5.0) Alamofire/5.1.20 True
+
+  - **Metadata** : 2023-05-02 10:24:41+00:00/93.47.60.117/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.33
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : LinkedInBot/1.0 (compatible; Mozilla/5.0; Apache-HttpClient +http://www.linkedin.com) True
+
+  - **Metadata** : 2023-05-02 12:19:10+00:00/108.174.2.215/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 96.60
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : MacOutlook/16.71.23032500 (ARM64 Mac OS X 11.5.1 (Build 20G80)) False
+
+  - **Metadata** : 2023-05-02 11:23:11+00:00/95.74.90.220/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 35.09
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : MacOutlook/16.72.23040900 (Intelx64 Mac OS X 13.3.1 (Build 22E261)) False
+
+  - **Metadata** : 2023-05-02 10:00:32+00:00/93.37.212.171/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 57.50
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : MacOutlook/16.72.23041401 (Intelx64 Mac OS X 13.3.1 (Build 22E261)) False
+
+  - **Metadata** : 2023-05-02 11:40:29+00:00/87.8.216.67/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 57.60
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : MacOutlook/16.72.23042300 (ARM64 Mac OS X 13.2.1 (Build 22D68)) False
+
+  - **Metadata** : 2023-05-02 10:02:22+00:00/120.20.236.12/ed60f2c7-9309-4a71-86c2-bdd9e189a100
+
+  - **Media Distanza** : 35.11
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : MobileSafari/8615.1.26.10.24 CFNetwork/1406.0.4 Darwin/22.4.0 True
+
+  - **Metadata** : 2023-05-02 12:00:38+00:00/79.45.66.38/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 117.92
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint:SPH-ip320; Smartphone; 176x220) False
+
+  - **Metadata** : 2023-05-02 12:16:50+00:00/15.236.211.254/71833729-ebae-4a24-aa7f-44edf8482820
+
+  - **Media Distanza** : 133.79
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.0) False
+
+  - **Metadata** : 2023-05-02 10:11:16+00:00/45.66.35.10/69651c8a-1895-436d-8aab-38736df1a7d5
+
+  - **Media Distanza** : 34.94
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) False
+
+  - **Metadata** : 2023-05-02 10:57:45+00:00/194.113.235.169/972149f6-4a88-4681-8b97-982c21d5544e
+
+  - **Media Distanza** : 34.89
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; CMDTDFJS; F9J; wbxapp 1.0.0; wbx 1.0.0; Zoom 3.6.0) False
+
+  - **Metadata** : 2023-05-02 10:06:59+00:00/217.174.121.240/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 230.15
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1) False
+
+  - **Metadata** : 2023-05-02 10:34:02+00:00/20.200.50.236/972149f6-4a88-4681-8b97-982c21d5544e
+
+  - **Media Distanza** : 35.02
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/4.0 [en] (WinNT; I) False
+
+  - **Metadata** : 2023-05-02 10:09:31+00:00/109.7.6.130/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 91.63
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/4.074482891 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0 False
+
+  - **Metadata** : 2023-05-02 10:04:35+00:00/124.31.105.69/-
+
+  - **Media Distanza** : 53.67
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 False
+
+  - **Metadata** : 2023-05-02 10:38:07+00:00/104.28.60.76/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 5.26
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (Android 4.4.2; Tablet; rv:63.0) Gecko/63.0 Firefox/63.0 False
+
+  - **Metadata** : 2023-05-02 10:03:29+00:00/151.82.37.164/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 91.69
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/) True
+
+  - **Metadata** : 2023-05-02 11:46:36+00:00/157.90.209.76/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 70.87
+
+  - **Conteggio totale** : 5
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/) True
+
+  - **Metadata** : 2023-05-02 11:30:17+00:00/167.94.138.34/26305238-f759-4c0d-a50a-92d675b2cfdc
+
+  - **Media Distanza** : 158.37
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; DataForSeoBot/1.0; +https://dataforseo.com/dataforseo-bot) True
+
+  - **Metadata** : 2023-05-02 11:44:51+00:00/136.243.220.210/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 64.96
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; DotBot/1.2; +https://opensiteexplorer.org/dotbot; help@moz.com) True
+
+  - **Metadata** : 2023-05-02 12:06:51+00:00/216.244.66.238/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 62.70
+
+  - **Conteggio totale** : 5
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com) True
+
+  - **Metadata** : 2023-05-02 11:04:38+00:00/40.88.21.235/972149f6-4a88-4681-8b97-982c21d5544e
+
+  - **Media Distanza** : 122.78
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Fast/2.0; +https://help.mail.ru/webmaster/indexing/robots) True
+
+  - **Metadata** : 2023-05-02 12:19:20+00:00/95.163.255.128/cca03f9e-1668-4d5c-aa00-adae04504fff
+
+  - **Media Distanza** : 137.73
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Robots/2.0; +https://help.mail.ru/webmaster/indexing/robots) True
+
+  - **Metadata** : 2023-05-02 12:18:40+00:00/95.163.255.109/cca03f9e-1668-4d5c-aa00-adae04504fff
+
+  - **Media Distanza** : 125.03
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0) False
+
+  - **Metadata** : 2023-05-02 11:49:27+00:00/184.154.139.49/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 53.67
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html) True
+
+  - **Metadata** : 2023-05-02 12:06:05+00:00/185.191.171.19/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 44.01
+
+  - **Conteggio totale** : 9
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; SeznamBot/4.0-RC1; +http://napoveda.seznam.cz/seznambot-intro/) True
+
+  - **Metadata** : 2023-05-02 10:38:07+00:00/77.75.79.36/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 91.37
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) True
+
+  - **Metadata** : 2023-05-02 10:02:38+00:00/213.180.203.31/cca03f9e-1668-4d5c-aa00-adae04504fff
+
+  - **Media Distanza** : 16.64
+
+  - **Conteggio totale** : 88
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 True
+
+  - **Metadata** : 2023-05-02 10:02:07+00:00/213.180.203.48/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 16.27
+
+  - **Conteggio totale** : 7
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; YandexRenderResourcesBot/1.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 True
+
+  - **Metadata** : 2023-05-02 10:02:23+00:00/95.108.213.203/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 27.87
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; ev-crawler/1.0; +https://headline.com/legal/crawler) True
+
+  - **Metadata** : 2023-05-02 11:19:31+00:00/64.71.131.243/cca03f9e-1668-4d5c-aa00-adae04504fff
+
+  - **Media Distanza** : 129.42
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 zgrab/0.x True
+
+  - **Metadata** : 2023-05-02 10:28:10+00:00/104.143.83.241/19ac79fe-07af-41d3-99d0-389d8e3b9bca
+
+  - **Media Distanza** : 64.74
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/) True
+
+  - **Metadata** : 2023-05-02 10:02:54+00:00/216.144.248.19/71833729-ebae-4a24-aa7f-44edf8482820
+
+  - **Media Distanza** : 53.33
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Python/3.8 aiohttp/3.8.1 True
+
+  - **Metadata** : 2023-05-02 11:03:56+00:00/35.82.28.69/1b3f0af8-fd4d-40c5-aed4-3111eb861580
+
+  - **Media Distanza** : 100.15
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : QR Scanner Android False
+
+  - **Metadata** : 2023-05-02 10:18:24+00:00/193.207.101.102/71833729-ebae-4a24-aa7f-44edf8482820
+
+  - **Media Distanza** : 52.86
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Safari/12607.3.10 CFNetwork/811.11 Darwin/16.7.0 (x86_64) True
+
+  - **Metadata** : 2023-05-02 11:21:38+00:00/93.35.138.231/99d7b12b-bb30-42fd-b065-9d2fb9583ec2
+
+  - **Media Distanza** : 74.61
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07) True
+
+  - **Metadata** : 2023-05-02 10:23:27+00:00/49.7.21.113/972149f6-4a88-4681-8b97-982c21d5544e
+
+  - **Media Distanza** : 162.39
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : axios/0.16.2 True
+
+  - **Metadata** : 2023-05-02 10:03:06+00:00/34.250.242.160/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 11.44
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : axios/0.21.1 True
+
+  - **Metadata** : 2023-05-02 11:46:44+00:00/34.77.250.79/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 11.17
+
+  - **Conteggio totale** : 5
+
+
+
+* **User Agent** : axios/0.27.2 True
+
+  - **Metadata** : 2023-05-02 11:52:01+00:00/34.76.14.91/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 13.34
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : axios/0.7.0 True
+
+  - **Metadata** : 2023-05-02 10:02:59+00:00/54.77.249.76/31e8f436-2ebc-4920-b78a-7bf943126bcc
+
+  - **Media Distanza** : 10.77
+
+  - **Conteggio totale** : 72
+
+
+
+* **User Agent** : com.apple.WebKit.Networking/18615.1.26.11.23 CFNetwork/1406.0.4 Darwin/22.4.0 True
+
+  - **Metadata** : 2023-05-02 12:16:29+00:00/93.38.40.61/99d7b12b-bb30-42fd-b065-9d2fb9583ec2
+
+  - **Media Distanza** : 151.28
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : curl/7.68.0 True
+
+  - **Metadata** : 2023-05-02 10:00:02+00:00/13.236.3.122/93385174-e75f-4026-9f3d-cd2d0afe49c4
+
+  - **Media Distanza** : 45.79
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : insomnia/2023.2.0 True
+
+  - **Metadata** : 2023-05-02 11:56:40+00:00/128.116.185.14/31e8f436-2ebc-4920-b78a-7bf943126bcc
+
+  - **Media Distanza** : 66.05
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : node-fetch/1.0 (+https://github.com/bitinn/node-fetch) True
+
+  - **Metadata** : 2023-05-02 12:06:53+00:00/3.249.115.94/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 18.91
+
+  - **Conteggio totale** : 51
+
+
+
+* **User Agent** : node-soap/0.29.0 True
+
+  - **Metadata** : 2023-05-02 12:10:26+00:00/3.249.109.205/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 29.87
+
+  - **Conteggio totale** : 19
+
+
+
+* **User Agent** : okhttp/2.5.0 True
+
+  - **Metadata** : 2023-05-02 12:11:35+00:00/79.41.223.183/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.24
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : okhttp/3.10.0 True
+
+  - **Metadata** : 2023-05-02 12:17:47+00:00/109.118.112.238/fd49995e-656a-41d5-a14a-e28629acdfcc
+
+  - **Media Distanza** : 5.21
+
+  - **Conteggio totale** : 236
+
+
+
+* **User Agent** : okhttp/3.12.0 True
+
+  - **Metadata** : 2023-05-02 11:50:38+00:00/79.37.191.237/6111450a-6621-4c98-87f5-e2a88c1a50dd
+
+  - **Media Distanza** : 4.97
+
+  - **Conteggio totale** : 184
+
+
+
+* **User Agent** : okhttp/3.12.1 True
+
+  - **Metadata** : 2023-05-02 11:17:57+00:00/37.160.134.252/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 4.96
+
+  - **Conteggio totale** : 2
+
+
+
+* **User Agent** : okhttp/3.8.0 True
+
+  - **Metadata** : 2023-05-02 10:03:40+00:00/37.159.87.12/eabc1b3b-c78b-4c56-9bd9-172632679fe0
+
+  - **Media Distanza** : 9.30
+
+  - **Conteggio totale** : 17
+
+
+
+* **User Agent** : okhttp/4.6.0 True
+
+  - **Metadata** : 2023-05-02 12:03:00+00:00/82.55.124.38/2d3d1ba8-4fb5-4c8c-9f8b-fd5ef1ef3dca
+
+  - **Media Distanza** : 4.91
+
+  - **Conteggio totale** : 5
+
+
+
+* **User Agent** : python-requests/2.25.1 True
+
+  - **Metadata** : 2023-05-02 12:05:03+00:00/34.77.250.88/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 61.34
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : python-requests/2.27.1 True
+
+  - **Metadata** : 2023-05-02 10:48:51+00:00/206.189.81.144/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 61.29
+
+  - **Conteggio totale** : 1
+
+
+
+</details>
+
+## Cluster 9:
+
+**Programmatic traffic**:  5 bots, 3 humans
+
+<details>
+
+<summary>  Expand details : </summary>
+
+* **User Agent** : Foregenix ThreatView Security Auditor (threatview.app) True
+
+  - **Metadata** : 2023-05-02 11:57:37+00:00/109.169.10.9/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 178.76
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mithril ASM log function: asm_write_log True
+
+  - **Metadata** : 2023-05-02 11:41:40+00:00/147.161.244.200/c96cab3d-3644-44bf-9aab-826470aa862f
+
+  - **Media Distanza** : 157.33
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; coccocbot-image/1.0; +http://help.coccoc.com/searchengine) True
+
+  - **Metadata** : 2023-05-02 10:05:23+00:00/103.131.71.45/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 60.55
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine) True
+
+  - **Metadata** : 2023-05-02 11:53:38+00:00/103.131.71.76/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 56.98
+
+  - **Conteggio totale** : 3
+
+
+
+* **User Agent** : Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/17H35 [FBAN/FBIOS;FBDV/iPhone8,2;FBMD/iPhone;FBSN/iOS;FBSV/13.7;FBSS/3;FBID/phone;FBLC/it_IT;FBOP/5] False
+
+  - **Metadata** : 2023-05-02 11:16:12+00:00/37.161.112.183/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 141.37
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20C65 [FBAN/FBIOS;FBDV/iPhone13,2;FBMD/iPhone;FBSN/iOS;FBSV/16.2;FBSS/3;FBID/phone;FBLC/it_IT;FBOP/5] False
+
+  - **Metadata** : 2023-05-02 12:10:04+00:00/151.55.75.49/81209f2e-b794-4bea-ab27-ca16ba9d7544
+
+  - **Media Distanza** : 141.37
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20E252 [FBAN/FBIOS;FBAV/412.0.0.40.114;FBBV/469153370;FBDV/iPhone14,3;FBMD/iPhone;FBSN/iOS;FBSV/16.4.1;FBSS/3;FBID/phone;FBLC/it_Qaau_IT;FBOP/5;FBRV/471048089] False
+
+  - **Metadata** : 2023-05-02 11:50:54+00:00/95.245.68.182/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 204.81
+
+  - **Conteggio totale** : 1
+
+
+
+* **User Agent** : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) True
+
+  - **Metadata** : 2023-05-02 11:16:41+00:00/31.13.127.119/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 123.33
+
+  - **Conteggio totale** : 2
+
+
+
+</details>
+
+## Cluster 10:
+
+**Programmatic traffic**:  92 bots, 0 humans
+
+<details>
+
+<summary>  Expand details : </summary>
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 026d9857-542a-416d-93b7-12387055940b; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:13+00:00/54.248.220.11/8b6dd727-67e6-4934-ab3d-9bf246f1b8ad
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 0323b405-ddfa-4622-bbfa-810c7bd3b3d8; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:12+00:00/54.250.253.237/88830398-e410-4284-b535-b925d93eeb82
+
+  - **Media Distanza** : 1.66
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 055ba170-e107-4fad-aa23-d3df651947a4; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:15+00:00/15.177.2.7/1a596fd0-868f-417e-ac1b-3c12d4d16128
+
+  - **Media Distanza** : 1.95
+
+  - **Conteggio totale** : 7
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 07a699f7-2748-406c-ad00-e1bbd60704f3; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.245.168.11/b4e50c19-edd5-4514-ae97-410d853b03b5
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 07c0347f-f909-4e43-9979-bcc696aa565e; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.244.52.238/3bebb59a-7308-4359-a685-22c58e22fe65
+
+  - **Media Distanza** : 1.66
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 08020983-e7a7-487f-8414-0ea8a79f6573; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.255.254.237/55fa94af-c2b8-493a-bf6d-917f36bfd0b2
+
+  - **Media Distanza** : 1.74
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 0dd73294-4305-4797-93b3-b03c14ab7539; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.252.254.249/8803460a-2c80-4326-87f5-85923b65c27c
+
+  - **Media Distanza** : 2.55
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 0f359345-8055-45b9-aa46-8af899e1d905; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.241.32.77/4195a922-2c0c-4105-a0f1-44a15fd5dd13
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 175cb382-f006-4624-a170-2c69f79f04ac; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:15+00:00/54.245.168.53/8a7e504e-5f59-470f-8c8a-9e5c4abbd253
+
+  - **Media Distanza** : 2.55
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 18c3f644-a2c0-4351-9301-cebd25630819; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:03+00:00/107.23.255.46/b8aa8025-479c-46ee-b4b3-112c10c0bf19
+
+  - **Media Distanza** : 1.66
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 1d1946d6-806b-4a28-94c3-2a619d8af70c; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:14+00:00/15.177.30.11/595f727a-33ec-44b6-8c04-87c32d7c1b05
+
+  - **Media Distanza** : 2.53
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 1daf7752-ba87-4b51-9307-6fa38804aa2f; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.232.40.109/8b6dd727-67e6-4934-ab3d-9bf246f1b8ad
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 22bed529-0726-49bf-82dd-0a8c8183df8a; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:15+00:00/54.228.16.47/88830398-e410-4284-b535-b925d93eeb82
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 27ed71f2-9ea6-4c8b-ad07-28c477ac658b; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/15.177.58.10/595f727a-33ec-44b6-8c04-87c32d7c1b05
+
+  - **Media Distanza** : 2.53
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 28581357-11a3-42ca-8e11-2c3b28265480; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:15+00:00/54.245.168.11/b6021e12-e233-4814-8d56-f6f68c523d91
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 299dce71-3b77-498f-bd1c-4564e152a418; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/177.71.207.173/b8aa8025-479c-46ee-b4b3-112c10c0bf19
+
+  - **Media Distanza** : 1.63
+
+  - **Conteggio totale** : 9
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 2e050cde-8cc5-4720-bd72-d9a46ab98b21; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/177.71.207.185/e66f4967-707e-410b-93b6-078dbbcb10d1
+
+  - **Media Distanza** : 2.55
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 3027cc39-4107-4bfa-b9c1-91cb7de43f9c; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/177.71.207.142/55fa94af-c2b8-493a-bf6d-917f36bfd0b2
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 312f1d0f-ecba-402d-bf18-b7fa8e7d006a; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:15+00:00/15.177.2.1/730f1bd3-3e68-457e-80ef-49a22a9d1336
+
+  - **Media Distanza** : 2.53
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 3165c712-ab51-4790-8422-7f70ffa35979; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.252.254.238/ccdfcff2-0ee1-4fac-9adc-5f378c227167
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 319c625e-c424-4398-ac6e-05508a0e32be; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.183.255.173/b35a4bc9-b685-4c84-b843-c9c2a845c2c4
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 3332e688-657a-4b5e-91e7-c4b08d5f2f1f; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.244.52.212/c9ac422b-b121-4615-80fc-041338e0a49a
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 3386e1a3-2dd8-4764-90ba-ae9ce916891e; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:14+00:00/54.255.254.237/cc8c9ac6-2182-4517-99c2-97ab3827b117
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 350ceeae-5f18-43b0-93f4-5811cd7745f7; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.244.52.203/b4e50c19-edd5-4514-ae97-410d853b03b5
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 3952106c-0427-4491-9e63-a1fc5ebdf72d; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:14+00:00/177.71.207.171/8b6dd727-67e6-4934-ab3d-9bf246f1b8ad
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 3c496451-3b94-4c91-a2a7-1ac31142dcd1; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.241.32.107/3bebb59a-7308-4359-a685-22c58e22fe65
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 3c9809af-18cc-4adc-bcbc-a4c2b614f073; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:03+00:00/54.248.220.14/b8aa8025-479c-46ee-b4b3-112c10c0bf19
+
+  - **Media Distanza** : 1.65
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 3da0b8d8-fc43-4084-b9fc-e2fc21b0683c; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:15+00:00/54.252.79.185/6111450a-6621-4c98-87f5-e2a88c1a50dd
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 3f1169a5-9922-46f5-bb77-52530a672933; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:13+00:00/54.248.220.16/fd49995e-656a-41d5-a14a-e28629acdfcc
+
+  - **Media Distanza** : 2.53
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 41096e11-07d4-4e6b-a97b-683193f594f9; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:15+00:00/54.255.254.206/b35a4bc9-b685-4c84-b843-c9c2a845c2c4
+
+  - **Media Distanza** : 1.61
+
+  - **Conteggio totale** : 10
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 48bf8dae-d8f4-491d-ae8c-05a05a9fc6c6; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:15+00:00/54.255.254.206/c0475ec6-330a-43fa-8d1b-42cfeeedf3e2
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 4db87149-b07b-4cbd-8d98-e9fd6ea193f2; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.241.32.86/8803460a-2c80-4326-87f5-85923b65c27c
+
+  - **Media Distanza** : 2.55
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 4e7874c7-89f2-4290-899c-e936bccd55b1; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.252.254.205/4195a922-2c0c-4105-a0f1-44a15fd5dd13
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 52726bb0-9f0a-4822-b8dd-9dcd51ee923d; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:15+00:00/54.251.31.186/c0475ec6-330a-43fa-8d1b-42cfeeedf3e2
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 5378ffd8-841c-4ec0-95a3-c040f4781d0b; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/15.177.54.3/91c135f0-e90a-47ac-b671-24ceb29a3431
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 54bbea06-1a37-4b6e-a74f-061ee7be9c2f; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.243.31.205/cc2205a9-35eb-49a0-a72d-0e18485d0064
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 59540b94-b19b-4061-95ec-d99ea1423c35; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:14+00:00/54.250.253.214/e66f4967-707e-410b-93b6-078dbbcb10d1
+
+  - **Media Distanza** : 2.55
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 5e5991d6-13cc-452a-9230-972c046e5116; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:03+00:00/54.243.31.238/8a7e504e-5f59-470f-8c8a-9e5c4abbd253
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 653057e6-f694-49d4-b281-559557fb2b13; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.252.254.205/3bebb59a-7308-4359-a685-22c58e22fe65
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 6abf0ad7-44b8-4591-82a8-cfc901ce38e7; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:15+00:00/54.245.168.54/7eb5149f-c9cf-48ea-8db2-2b7df09789a1
+
+  - **Media Distanza** : 2.55
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 6b2d8b32-b976-47ae-9ec5-f659fe086f10; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.241.32.121/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 1.71
+
+  - **Conteggio totale** : 11
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 6fca8fbd-2f34-408f-96a0-fed776f27053; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.248.220.8/affb4e6b-9ffa-4940-9d86-a4b991f3c0f2
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 7377d719-7df2-4f3b-a5d4-374923a4c3d6; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:14+00:00/54.252.254.203/cc8c9ac6-2182-4517-99c2-97ab3827b117
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 80f4add3-be0f-4089-b493-83ed491d8759; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.245.168.45/b6021e12-e233-4814-8d56-f6f68c523d91
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 868c7325-92d1-43fb-b1b6-28d6ed2accf0; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.251.31.141/8b6dd727-67e6-4934-ab3d-9bf246f1b8ad
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 8aca6fa0-7f39-4436-962d-315fb82b363b; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:03+00:00/54.250.253.249/fd49995e-656a-41d5-a14a-e28629acdfcc
+
+  - **Media Distanza** : 2.53
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 8b23afa9-f914-4f94-87b2-d95f7b8c473a; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:04+00:00/107.23.255.13/88830398-e410-4284-b535-b925d93eeb82
+
+  - **Media Distanza** : 1.66
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 8ed6d40c-0af9-43f9-a2cd-1929196bdbe7; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.255.254.235/cc2205a9-35eb-49a0-a72d-0e18485d0064
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 8fbbd48e-ef4b-4941-89db-3b1f2f7328f4; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/176.34.159.201/a8f67599-913d-4fb9-a8c7-1c3a7cfa6bee
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 916ef5a4-e603-4d1d-8334-fc7dee9f12fb; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.244.52.203/b35a4bc9-b685-4c84-b843-c9c2a845c2c4
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 94e151c1-27a0-4770-ae35-5b951a866974; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/177.71.207.174/23578401-8a16-4f32-be13-cd1627e8659a
+
+  - **Media Distanza** : 2.53
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 99e2d832-88e6-40f6-b55a-649a463033de; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.245.168.61/8a7e504e-5f59-470f-8c8a-9e5c4abbd253
+
+  - **Media Distanza** : 2.55
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref 9dc7387a-3599-433f-b7b5-b62a84c6d086; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/177.71.207.152/730f1bd3-3e68-457e-80ef-49a22a9d1336
+
+  - **Media Distanza** : 2.53
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref aee849c5-64bb-4248-a3e0-0dbb4e7d908a; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.252.254.206/730f1bd3-3e68-457e-80ef-49a22a9d1336
+
+  - **Media Distanza** : 2.53
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref b3fdaa7a-0efa-404f-bf38-652c521bc344; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.244.52.207/23578401-8a16-4f32-be13-cd1627e8659a
+
+  - **Media Distanza** : 2.53
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref b5c2482a-c4cd-4e2a-9687-6d639a64e4e3; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:14+00:00/54.244.52.205/55fa94af-c2b8-493a-bf6d-917f36bfd0b2
+
+  - **Media Distanza** : 1.57
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref b676e207-ecd1-4210-a01e-0e918f707867; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/15.177.46.11/363a362b-e621-434c-b44c-ef9aca01fca0
+
+  - **Media Distanza** : 2.53
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref b686eab8-9a96-4ca2-bd44-cb8d2b31c5b7; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.228.16.51/a8f67599-913d-4fb9-a8c7-1c3a7cfa6bee
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref b6c947f1-efb3-4b29-bc63-e71234ae3dc5; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:24+00:00/54.252.79.143/c9ac422b-b121-4615-80fc-041338e0a49a
+
+  - **Media Distanza** : 1.66
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref b7728a46-ae16-4b7c-aacd-81fcb28a5eaf; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:14+00:00/15.177.50.7/1a596fd0-868f-417e-ac1b-3c12d4d16128
+
+  - **Media Distanza** : 1.73
+
+  - **Conteggio totale** : 5
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref b7e2c9f9-3637-4826-92bb-60fe6e797a69; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:14+00:00/54.228.16.14/edc68974-9089-4ee5-b098-e489dff1c631
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref b9e8ff3c-bc31-4b91-bad5-b68f3e685c9f; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:14+00:00/107.23.255.13/edc68974-9089-4ee5-b098-e489dff1c631
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref bbad22aa-4895-4f8e-90ac-85d73fc40e8c; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/15.177.50.17/595f727a-33ec-44b6-8c04-87c32d7c1b05
+
+  - **Media Distanza** : 2.53
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref bcf05507-0a7e-4a64-898f-cc6a2be74cff; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:15+00:00/107.23.255.33/b6021e12-e233-4814-8d56-f6f68c523d91
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref c039f18e-670e-4b1c-a5a7-b84980029b69; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:12+00:00/54.255.254.206/edc68974-9089-4ee5-b098-e489dff1c631
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref c04a582b-1967-4281-a062-04eb4a39efa0; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:14+00:00/54.244.52.205/b8aa8025-479c-46ee-b4b3-112c10c0bf19
+
+  - **Media Distanza** : 1.69
+
+  - **Conteggio totale** : 7
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref c25239f3-c4b5-43e2-9628-ef572dac4f11; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/107.23.255.23/a8f67599-913d-4fb9-a8c7-1c3a7cfa6bee
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref cca04ace-2f81-4177-96cf-eb86bb35859d; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:04+00:00/54.243.31.206/b35a4bc9-b685-4c84-b843-c9c2a845c2c4
+
+  - **Media Distanza** : 1.74
+
+  - **Conteggio totale** : 6
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref cd91a74c-3c07-4ceb-a8b2-8d4b0f17e35d; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:13+00:00/54.252.79.185/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 1.53
+
+  - **Conteggio totale** : 5
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref cdf0a204-ada1-4d73-8556-ebae7436f1fb; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.241.32.79/b6021e12-e233-4814-8d56-f6f68c523d91
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref cef7348a-fe8c-44ce-94f9-09fc54f345ba; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.228.16.47/c9ac422b-b121-4615-80fc-041338e0a49a
+
+  - **Media Distanza** : 1.66
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref d001310b-1534-4422-a865-7e3335fa25b0; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.232.40.89/23578401-8a16-4f32-be13-cd1627e8659a
+
+  - **Media Distanza** : 2.53
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref d01b9372-f2e6-45fe-ba96-f5366b07afc0; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:14+00:00/54.252.254.208/c0475ec6-330a-43fa-8d1b-42cfeeedf3e2
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref d0a6f4e2-6e29-4351-a0ba-bb97190b00a3; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:14+00:00/177.71.207.142/b4e50c19-edd5-4514-ae97-410d853b03b5
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref d260d7d0-d9b3-460a-a430-4b98345f5725; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.243.31.207/affb4e6b-9ffa-4940-9d86-a4b991f3c0f2
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref d2de2f00-6cb5-4c12-91c4-7cf6607b1158; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.232.40.110/88830398-e410-4284-b535-b925d93eeb82
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref d2f13a31-1497-4028-ae3a-ee75926516c5; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/107.23.255.58/ccdfcff2-0ee1-4fac-9adc-5f378c227167
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref d3b9d14e-ee0c-45a9-8ee8-e80b2f2f9eaa; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.241.32.78/cc2205a9-35eb-49a0-a72d-0e18485d0064
+
+  - **Media Distanza** : 1.57
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref e0dd5d53-1159-4f00-93e9-8d95a71b92b6; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.252.254.205/b4e50c19-edd5-4514-ae97-410d853b03b5
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref e25e80f1-8168-4afb-9c22-8d140038aef8; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.255.254.206/cc8c9ac6-2182-4517-99c2-97ab3827b117
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref e44d053e-64eb-4453-aab9-d3a3032650c0; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.255.254.235/ccdfcff2-0ee1-4fac-9adc-5f378c227167
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref e9cb0303-c067-49d5-8680-1d2c99546e7d; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/15.177.62.5/1a596fd0-868f-417e-ac1b-3c12d4d16128
+
+  - **Media Distanza** : 1.75
+
+  - **Conteggio totale** : 4
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref ecbf882e-46d2-4cab-a571-6a6b6211372d; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:13+00:00/177.71.207.155/affb4e6b-9ffa-4940-9d86-a4b991f3c0f2
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref ed85aa80-55cb-4e83-bfd2-bf464c3999e4; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:14+00:00/54.252.79.181/6111450a-6621-4c98-87f5-e2a88c1a50dd
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref edcad484-15f8-4632-82d9-d9482deda80c; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.243.31.206/cc2205a9-35eb-49a0-a72d-0e18485d0064
+
+  - **Media Distanza** : 1.74
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref f0225551-c45d-4742-9808-b59f83041f44; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:01+00:00/54.228.16.46/3bebb59a-7308-4359-a685-22c58e22fe65
+
+  - **Media Distanza** : 1.66
+
+  - **Conteggio totale** : 8
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref f026af3d-1c60-4839-a27b-c299618e7afd; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:11+00:00/54.241.32.114/55fa94af-c2b8-493a-bf6d-917f36bfd0b2
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref f583f5fa-b074-443e-b782-533a8aa91a25; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:14+00:00/54.252.79.169/cc8c9ac6-2182-4517-99c2-97ab3827b117
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref f77e919b-6b11-4f26-804e-db7a602f1f15; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:10+00:00/54.244.52.211/ec6bb493-2290-4271-8140-92cf83f7b58c
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref f804d211-5062-4482-990c-6c4c40c64fad; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:14+00:00/54.252.254.235/4195a922-2c0c-4105-a0f1-44a15fd5dd13
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : Amazon-Route53-Health-Check-Service (ref fec91fd4-cfef-49e3-99e1-f2e6771c6306; report http://amzn.to/1vsZADi) True
+
+  - **Metadata** : 2023-05-02 10:00:12+00:00/54.248.220.1/4195a922-2c0c-4105-a0f1-44a15fd5dd13
+
+  - **Media Distanza** : 1.60
+
+  - **Conteggio totale** : 16
+
+
+
+* **User Agent** : ZoominfoBot (zoominfobot at zoominfo dot com) True
+
+  - **Metadata** : 2023-05-02 10:12:10+00:00/34.139.196.162/ee52971f-fb8d-4534-94cb-61232147fd12
+
+  - **Media Distanza** : 129.56
+
+  - **Conteggio totale** : 1
+
+
+
+</details>
+
+## Cluster 11:
+
+**Programmatic traffic**:  2 bots, 0 humans
+
+<details>
+
+<summary>  Expand details : </summary>
+
+* **User Agent** : Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot) True
+
+  - **Metadata** : 2023-05-02 12:29:48+00:00/114.119.135.152/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 1.56
+
+  - **Conteggio totale** : 293
+
+
+
+* **User Agent** : Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot) True
+
+  - **Metadata** : 2023-05-02 10:06:10+00:00/114.119.130.87/0a8a141f-f2c4-46be-933e-45edfd582beb
+
+  - **Media Distanza** : 5.71
+
+  - **Conteggio totale** : 16
+
+
+
+</details>
+
