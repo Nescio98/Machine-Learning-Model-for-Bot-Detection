@@ -1,10 +1,8 @@
-<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
-
 ## Cluster 0:
 
 **Human traffic**:  4 bots, 186 humans
 
-<details>
+  <details>
 
 <summary>  Expand details : </summary>
 
